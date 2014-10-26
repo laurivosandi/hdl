@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="34.100cm" height="22.100cm" viewBox="0.950 0.950 35.050 23.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="18.500,1.000 23.000,4.000 18.500,7.000 14.000,4.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="18.500,1.000 23.000,4.000 18.500,7.000 14.000,4.000 "/>
+<text x="18.500" y="4.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Type of body</text>
+<rect x="1.000" y="20.000" width="6.000" height="2.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="20.000" width="6.000" height="2.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="4.000" y="21.645"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Flip-flop</text>
+<rect x="19.000" y="20.000" width="6.000" height="2.900" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="19.000" y="20.000" width="6.000" height="2.900" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="22.000" y="21.645"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Wires</text>
+<rect x="29.000" y="20.000" width="6.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="29.000" y="20.000" width="6.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="32.000" y="21.695"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Latch</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="28.500,5.000 33.000,8.000 28.500,11.000 24.000,8.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="28.500,5.000 33.000,8.000 28.500,11.000 24.000,8.000 "/>
+<text x="28.500" y="7.395"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Driven</text>
+<text x="28.500" y="8.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+in all</text>
+<text x="28.500" y="8.995"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+branches?</text>
+<text x="25.000" y="3.595"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Concurrent</text>
+<text x="34.000" y="7.595"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+No</text>
+<text x="23.000" y="7.595"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Yes</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="8.000,6.000 13.000,9.000 8.000,12.000 3.000,9.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="8.000,6.000 13.000,9.000 8.000,12.000 3.000,9.000 "/>
+<text x="8.000" y="9.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Type of identifier</text>
+<text x="12.000" y="3.595"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Clocked</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="14.000,11.000 19.000,14.000 14.000,17.000 9.000,14.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.000,11.000 19.000,14.000 14.000,17.000 9.000,14.000 "/>
+<text x="14.000" y="13.795"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Order of</text>
+<text x="14.000" y="14.595"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+assignment</text>
+<text x="20.000" y="15.595"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Write</text>
+<text x="20.000" y="16.395"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+before</text>
+<text x="20.000" y="17.195"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+read</text>
+<text x="13.000" y="8.595"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Variable</text>
+<text x="3.000" y="8.595"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Signal</text>
+<text x="6.000" y="15.595"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Read</text>
+<text x="6.000" y="16.395"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+before</text>
+<text x="6.000" y="17.195"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+write</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.000,4.000 14.000,4.000 8.000,4.000 8.000,5.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="8.000,5.888 7.750,5.388 8.000,5.513 8.250,5.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="8.000,5.888 7.750,5.388 8.000,5.513 8.250,5.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="23.000,4.000 23.000,4.000 28.500,4.000 28.500,4.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="28.500,4.888 28.250,4.388 28.500,4.513 28.750,4.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="28.500,4.888 28.250,4.388 28.500,4.513 28.750,4.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="33.000,8.000 33.000,8.000 33.500,8.000 33.500,19.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.500,19.888 33.250,19.388 33.500,19.513 33.750,19.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.500,19.888 33.250,19.388 33.500,19.513 33.750,19.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.000,8.000 24.000,8.000 23.500,8.000 23.500,19.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="23.500,19.888 23.250,19.388 23.500,19.513 23.750,19.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="23.500,19.888 23.250,19.388 23.500,19.513 23.750,19.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.000,14.000 19.000,14.000 20.500,14.000 20.500,19.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.500,19.888 20.250,19.388 20.500,19.513 20.750,19.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.500,19.888 20.250,19.388 20.500,19.513 20.750,19.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.000,9.000 13.000,9.000 14.000,9.000 14.000,10.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="14.000,10.888 13.750,10.388 14.000,10.513 14.250,10.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.000,10.888 13.750,10.388 14.000,10.513 14.250,10.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.000,9.000 3.000,9.000 2.500,9.000 2.500,19.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="2.500,19.888 2.250,19.388 2.500,19.513 2.750,19.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="2.500,19.888 2.250,19.388 2.500,19.513 2.750,19.388 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.000,14.000 9.000,14.000 5.500,14.000 5.500,19.513 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.500,19.888 5.250,19.388 5.500,19.513 5.750,19.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.500,19.888 5.250,19.388 5.500,19.513 5.750,19.388 "/>
+</svg>
