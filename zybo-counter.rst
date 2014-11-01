@@ -1,4 +1,5 @@
 .. date: 2014-10-05
+.. tags: VHDL, ZYBO, KTH, BCD
 
 ZYBO counter
 ============

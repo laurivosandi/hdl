@@ -1,4 +1,4 @@
-.. tags: VHDL, Verilog, IEEE1164, GHDL, D latch
+.. tags: VHDL, Verilog, IEEE1164, GHDL, D latch, KTH
 .. date: 2014-10-13
 
 HDL basics

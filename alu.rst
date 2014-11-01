@@ -1,4 +1,4 @@
-.. tags: ALU, VHDL, testbench
+.. tags: ALU, VHDL, KTH, testbench
 
 Arithmetic logic unit
 =====================

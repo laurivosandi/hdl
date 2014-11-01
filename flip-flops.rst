@@ -1,4 +1,4 @@
-.. tags: flip-flop, latch, VHDL, D latch, SR latch
+.. tags: flip-flop, latch, VHDL, D latch, SR latch, KTH
 
 Flip-flops
 ==========

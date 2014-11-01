@@ -1,4 +1,4 @@
-.. tags: VHDL, GTKWave
+.. tags: VHDL, GTKWave, KTH
 
 Using GTKWave to analyze waveforms
 ==================================

@@ -1,4 +1,4 @@
-.. tags: GHDL, VHDL, GCC
+.. tags: GHDL, VHDL, GCC, KTH
 .. date: 2014-10-16
 
 Using GHDL to simulate VHDL
