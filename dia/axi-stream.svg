@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="39cm" height="10cm" viewBox="39 39 762 189" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="720" y="224.425">
+    <tspan x="720" y="224.425">data consumer</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="224.425">
+    <tspan x="120" y="224.425">data producer</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200" y1="60" x2="629" y2="60"/>
+    <polygon style="fill: #000000" points="629,65 639,60 629,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="629,65 639,60 629,55 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="51.9">
+    <tspan x="420" y="51.9">Place initial TDATA, TLAST and TUSER on the bus</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="91.9">
+    <tspan x="420" y="91.9">Signal that initial data is ready via TVALID</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="640" y1="140" x2="211" y2="140"/>
+    <polygon style="fill: #000000" points="211,135 201,140 211,145 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="211,135 201,140 211,145 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="131.9">
+    <tspan x="420" y="131.9">Signal data received via TREADY</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200" y1="100" x2="629" y2="100"/>
+    <polygon style="fill: #000000" points="629,105 639,100 629,95 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="629,105 639,100 629,95 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200" y1="180" x2="629" y2="180"/>
+    <polygon style="fill: #000000" points="629,185 639,180 629,175 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="629,185 639,180 629,175 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="171.9">
+    <tspan x="420" y="171.9">Start transmitting TDATA, TLAST and TUSER in sync with ACLK</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="640" y="40" width="160" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="640" y="40" width="160" height="160"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="720" y="123.9">
+      <tspan x="720" y="123.9">AXI4-Stream Slave</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="40" width="160" height="160"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="40" width="160" height="160"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="123.9">
+      <tspan x="120" y="123.9">AXI4-Stream Master</tspan>
+    </text>
+  </g>
+</svg>

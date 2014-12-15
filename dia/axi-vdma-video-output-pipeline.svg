@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="17cm" viewBox="59 18 802 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #7f7f7f" x1="60" y1="180" x2="860" y2="180"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="840" y="164.425">
+    <tspan x="840" y="164.425">C code running on ARM cores</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="840" y="204.425">
+    <tspan x="840" y="204.425">VHDL code running on programmable fabric</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="280" y="20" width="160.15" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="20" width="160.15" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360.075" y="46.1333">
+      <tspan x="360.075" y="46.1333">Kernel framebuffer</tspan>
+      <tspan x="360.075" y="64.4778">module</tspan>
+      <tspan x="360.075" y="82.8222">(/dev/fb0)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #add8e6" x="80" y="20" width="160" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="20" width="160" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="46.1333">
+      <tspan x="160" y="46.1333">Userspace</tspan>
+      <tspan x="160" y="64.4778">application</tspan>
+      <tspan x="160" y="82.8222">(eg. Xorg)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="480" y="260" width="160" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480" y="260" width="160" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="295.306">
+      <tspan x="560" y="295.306">AXI4-Stream to</tspan>
+      <tspan x="560" y="313.65">Video Out v3.0</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="280" y="260" width="160" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="260" width="160" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="286.133">
+      <tspan x="360" y="286.133">AXI</tspan>
+      <tspan x="360" y="304.478">Video Direct</tspan>
+      <tspan x="360" y="322.822">Memory Access</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="680" y="260" width="160" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="260" width="160" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="760" y="295.306">
+      <tspan x="760" y="295.306">Video output</tspan>
+      <tspan x="760" y="313.65">(VGA, HDMI, etc)</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="640.981" y1="300" x2="669.282" y2="300"/>
+    <polygon style="fill: #000000" points="676.782,300 666.782,305 669.282,300 666.782,295 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="676.782,300 666.782,305 669.282,300 666.782,295 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="440.981" y1="300" x2="469.282" y2="300"/>
+    <polygon style="fill: #000000" points="476.782,300 466.782,305 469.282,300 466.782,295 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="476.782,300 466.782,305 469.282,300 466.782,295 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="240.982" y1="300" x2="269.311" y2="300"/>
+    <polygon style="fill: #7f7f7f" points="276.811,300 266.811,305 269.311,300 266.811,295 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="276.811,300 266.811,305 269.311,300 266.811,295 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="280" y="140" width="160" height="80"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="140" width="160" height="80"/>
+    <text font-size="14.6756" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="184.478">
+      <tspan x="360" y="184.478">DDR memory</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" x1="320" y1="260" x2="320" y2="229.736"/>
+    <polygon style="fill: #7f7f7f" points="320,222.236 325,232.236 320,229.736 315,232.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #7f7f7f" points="320,222.236 325,232.236 320,229.736 315,232.236 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="220" x2="400" y2="250.264"/>
+    <polygon style="fill: #000000" points="400,257.764 395,247.764 400,250.264 405,247.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="400,257.764 395,247.764 400,250.264 405,247.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="241" y1="60" x2="268.088" y2="60"/>
+    <polygon style="fill: #000000" points="268.088,65 278.088,60 268.088,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="268.088,65 278.088,60 268.088,55 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400.112" y1="100" x2="400.031" y2="129"/>
+    <polygon style="fill: #000000" points="395.031,128.986 400.003,139 405.031,129.014 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="395.031,128.986 400.003,139 405.031,129.014 "/>
+  </g>
+</svg>
