@@ -139,9 +139,42 @@ range as if it was regular array:
                 break
         mm.close()
 
+In the source tree you'll find **base.xdc** which contains pin mapping
+for the ports:
+
+
+
+.. code:: bash
+	
+    set_property PACKAGE_PIN R18 [get_ports {btns_4bits_tri_i[0]}]
+    set_property PACKAGE_PIN P16 [get_ports {btns_4bits_tri_i[1]}]
+    set_property PACKAGE_PIN V16 [get_ports {btns_4bits_tri_i[2]}]
+    set_property PACKAGE_PIN Y16 [get_ports {btns_4bits_tri_i[3]}]
+    set_property IOSTANDARD LVCMOS33 [get_ports {btns_4bits_tri_i[*]}]
+
+    set_property PACKAGE_PIN M14 [get_ports {leds_4bits_tri_o[0]}]
+    set_property PACKAGE_PIN M15 [get_ports {leds_4bits_tri_o[1]}]
+    set_property PACKAGE_PIN G14 [get_ports {leds_4bits_tri_o[2]}]
+    set_property PACKAGE_PIN D18 [get_ports {leds_4bits_tri_o[3]}]
+    set_property IOSTANDARD LVCMOS33 [get_ports {leds_4bits_tri_o[*]}]
+
+    set_property PACKAGE_PIN G15 [get_ports {sws_4bits_tri_i[0]}]
+    set_property PACKAGE_PIN P15 [get_ports {sws_4bits_tri_i[1]}]
+    set_property PACKAGE_PIN W13 [get_ports {sws_4bits_tri_i[2]}]
+    set_property PACKAGE_PIN T16 [get_ports {sws_4bits_tri_i[3]}]
+    set_property IOSTANDARD LVCMOS33 [get_ports {sws_4bits_tri_i[*]}]
+    
+Pmod connectors JE and JD have following pin mapping:
+
+.. figure:: dia/zybo-pmod-je-jd.svg
+
+    Two leftmost Pmod connectors
+
 
 .. [#vivado-2014.1-vs-zybo] `ZYBO vs Vivado 2014.1 <http://lauri.vosandi.com/posts/vivado-2014.1-vs-zybo.html>`_
 .. [#zybo_base_system] `ZYBO Base System <http://www.digilentinc.com/Data/Products/ZYBO/zybo_base_system.zip>`_
 .. [#vivado-download] http://www.xilinx.com/support/download.html
 .. [#xillinux] `Xillinux: A Linux distribution for Zedboard, ZyBo, MicroZed and SocKit <http://xillybus.com/xillinux>`_
 
+
+.. [#zybo-refman] `ZYBO Reference Manual <http://www.digilentinc.com/Data/Products/ZYBO/ZYBO_RM_B_V5.pdf>`_

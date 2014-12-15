@@ -27,4 +27,9 @@ Following are related to ZYBO:
 * `Getting started with ZYBO <zybo-quickstart.html>`_
 * `Compiling kernel for ZYBO <zybo-compiling-kernel.html>`_
 * `Counter implemented with ZYBO <zybo-counter.html>`_
+* `AXI Direct Memory Access <xilinx-dma.html>`_
+* `AXI4-Stream and AXI4-Stream Video <axi-stream.html>`_ protocols
+* `Capturing video with Xilinx AXI VDMA <xilinx-video-capture.html>`_
+* `Video output using VDMA on ZYBO <xilinx-video-output.html>`_
+* `Complete example of AXI VDMA pipeline on ZYBO <xilinx-vdma.html>`_
 * `Vivado 2014.1 vs ZYBO <vivado-2014.1-vs-zybo.html>`_
