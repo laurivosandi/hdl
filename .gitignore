@@ -1,3 +1,7 @@
 work*.cf
 *~
 *.orig
+*.o
+*.vcd
+*.autosave
+*_testbench

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="13.755cm" height="8.010cm" viewBox="1.355 0.995 15.110 9.005"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="6.000,1.000 6.000,9.000 10.000,9.000 10.000,1.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,1.000 6.000,9.000 10.000,9.000 10.000,1.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,6.000 7.000,7.000 6.000,8.000 "/>
+<line x1="6.000" y1="3.000" x2="4.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="6.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="3.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+input</text>
+<text x="3.000" y="7.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+clock</text>
+<line x1="12.000" y1="5.000" x2="10.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<text x="13.000" y="5.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+output</text>
+</svg>

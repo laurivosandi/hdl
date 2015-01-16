@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="18.370cm" height="8.010cm" viewBox="0.315 0.995 18.685 9.005"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="12.300" y1="3.000" x2="15.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="12.300" y1="7.000" x2="15.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="3.000" x2="6.300" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="6.300" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<text x="16.000" y="3.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Output</text>
+<text x="16.000" y="6.821"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Inverted</text>
+<text x="16.000" y="7.621"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Output</text>
+<text x="3.000" y="2.821"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Inverted</text>
+<text x="3.000" y="3.621"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+set</text>
+<text x="3.000" y="6.821"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Inverted</text>
+<text x="3.000" y="7.621"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+reset</text>
+<rect x="6.300" y="1.000" width="6.000" height="8.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.300" y="1.000" width="6.000" height="8.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="6.300" cy="3.000" rx="0.300" ry="0.300" fill="#FFFFFF" stroke="none"  /><ellipse cx="6.300" cy="3.000" rx="0.300" ry="0.300" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="12.300" cy="7.000" rx="0.300" ry="0.300" fill="#FFFFFF" stroke="none"  /><ellipse cx="12.300" cy="7.000" rx="0.300" ry="0.300" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="6.300" cy="7.000" rx="0.300" ry="0.300" fill="#FFFFFF" stroke="none"  /><ellipse cx="6.300" cy="7.000" rx="0.300" ry="0.300" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="7.300" y="2.973"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+S</text>
+<text x="7.300" y="6.973"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+R</text>
+<text x="11.300" y="6.973"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<text x="11.300" y="2.973"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+</svg>

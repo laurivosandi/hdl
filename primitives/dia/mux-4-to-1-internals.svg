@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="26.560cm" height="20.502cm" viewBox="1.265 0.992 27.825 21.494"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<text x="27.000" y="7.294"  fill="#000000" text-anchor="start" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+m</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,21.000 4.000,21.000 14.000,21.000 14.000,13.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,19.000 4.000,19.000 22.000,19.000 22.000,7.000 "/>
+<text x="3.000" y="3.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(0)</text>
+<text x="3.000" y="7.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(1)</text>
+<text x="3.000" y="11.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(2)</text>
+<text x="3.000" y="15.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(3)</text>
+<text x="3.000" y="19.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(1)</text>
+<text x="3.000" y="21.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(0)</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="12.000,9.000 12.000,17.000 16.000,15.000 16.000,11.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="12.000,9.000 12.000,17.000 16.000,15.000 16.000,11.000 "/>
+<text x="14.000" y="12.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+2:1</text>
+<line x1="4.000" y1="11.000" x2="12.000" y2="11.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="15.000" x2="12.000" y2="15.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="3.000" x2="6.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="6.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<line x1="8.000" y1="21.000" x2="8.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="6.000,1.000 6.000,9.000 10.000,7.000 10.000,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,1.000 6.000,9.000 10.000,7.000 10.000,3.000 "/>
+<text x="8.000" y="4.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+2:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="20.000,3.000 20.000,11.000 24.000,9.000 24.000,5.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.000,3.000 20.000,11.000 24.000,9.000 24.000,5.000 "/>
+<text x="22.000" y="6.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+2:1</text>
+<line x1="10.000" y1="5.000" x2="20.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="26.000" y1="7.000" x2="24.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="16.000,13.000 18.000,13.000 18.000,9.000 20.000,9.000 "/>
+<ellipse cx="8.000" cy="21.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="8.000" cy="21.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /></svg>

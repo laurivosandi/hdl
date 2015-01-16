@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="19.100cm" height="14.700cm" viewBox="1.750 0.650 20.850 15.350"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="2.000" cy="4.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="2.000" cy="4.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="8.000" cy="4.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="8.000" cy="4.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="2.250" y1="4.000" x2="7.263" y2="4.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="7.638,4.000 7.138,4.250 7.263,4.000 7.138,3.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="7.638,4.000 7.138,4.250 7.263,4.000 7.138,3.750 "/>
+<ellipse cx="14.000" cy="2.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="14.000" cy="2.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="8.236" y1="3.919" x2="13.340" y2="2.159" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.694,2.036 13.303,2.436 13.340,2.159 13.140,1.963 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.694,2.036 13.303,2.436 13.340,2.159 13.140,1.963 "/>
+<text x="5.000" y="3.500"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0 | 0</text>
+<text x="11.000" y="2.500"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 | 0</text>
+<ellipse cx="14.000" cy="14.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="14.000" cy="14.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="8.236" y1="12.081" x2="13.340" y2="13.841" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.694,13.964 13.140,14.037 13.340,13.841 13.303,13.564 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.694,13.964 13.140,14.037 13.340,13.841 13.303,13.564 "/>
+<ellipse cx="14.000" cy="6.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="14.000" cy="6.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="8.236" y1="4.081" x2="13.340" y2="5.841" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.694,5.964 13.140,6.037 13.340,5.841 13.303,5.564 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.694,5.964 13.140,6.037 13.340,5.841 13.303,5.564 "/>
+<ellipse cx="2.000" cy="12.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="2.000" cy="12.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="8.000" cy="12.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="8.000" cy="12.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="2.250" y1="12.000" x2="7.263" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="7.638,12.000 7.138,12.250 7.263,12.000 7.138,11.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="7.638,12.000 7.138,12.250 7.263,12.000 7.138,11.750 "/>
+<ellipse cx="14.000" cy="10.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="14.000" cy="10.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="8.236" y1="11.919" x2="13.340" y2="10.159" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.694,10.036 13.303,10.436 13.340,10.159 13.140,9.963 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.694,10.036 13.303,10.436 13.340,10.159 13.140,9.963 "/>
+<ellipse cx="19.400" cy="10.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="19.400" cy="10.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="14.249" y1="10.000" x2="18.664" y2="10.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="19.039,10.000 18.539,10.250 18.664,10.000 18.539,9.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.039,10.000 18.539,10.250 18.664,10.000 18.539,9.750 "/>
+<ellipse cx="19.500" cy="6.000" rx="0.200" ry="0.200" fill="#000000" stroke="none"  /><ellipse cx="19.500" cy="6.000" rx="0.200" ry="0.200" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="14.250" y1="6.000" x2="18.813" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="19.188,6.000 18.688,6.250 18.813,6.000 18.688,5.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.188,6.000 18.688,6.250 18.813,6.000 18.688,5.750 "/>
+<text x="11.000" y="14.114"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 | 0</text>
+<text x="11.000" y="6.114"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0 | -</text>
+<text x="5.000" y="11.500"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 | 1</text>
+<text x="11.000" y="10.500"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1 | -</text>
+<text x="17.000" y="5.595"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+- | -</text>
+<text x="17.000" y="9.614"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+- | -</text>
+<ellipse cx="14.000" cy="2.000" rx="1.300" ry="1.300" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="14.000" cy="14.000" rx="1.300" ry="1.300" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="19.500" cy="6.000" rx="1.300" ry="1.300" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="19.400" cy="10.000" rx="1.300" ry="1.300" fill="none" stroke="#000000"  stroke-width="0.100" /></svg>

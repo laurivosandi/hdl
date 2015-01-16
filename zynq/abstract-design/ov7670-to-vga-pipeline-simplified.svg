@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="48.100cm" height="10.100cm" viewBox="0.950 0.950 49.050 11.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.000,9.000 25.000,9.000 35.000,9.000 35.000,5.595 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="35.250,5.595 35.000,5.095 34.750,5.595 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="35.250,5.595 35.000,5.095 34.750,5.595 "/>
+<rect x="1.000" y="1.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Camera input</text>
+<text x="5.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+(8-bit)</text>
+<line x1="9.050" y1="3.000" x2="10.513" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="10.888,3.000 10.388,3.250 10.513,3.000 10.388,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.888,3.000 10.388,3.250 10.513,3.000 10.388,2.750 "/>
+<rect x="11.000" y="1.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="3.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Capture block</text>
+<rect x="31.000" y="1.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+VGA output</text>
+<text x="35.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+block</text>
+<rect x="21.000" y="1.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Block RAM</text>
+<text x="25.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Generator</text>
+<rect x="41.000" y="1.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="41.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video output</text>
+<text x="45.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+(VGA, HDMI, etc)</text>
+<line x1="39.049" y1="3.000" x2="40.464" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="40.839,3.000 40.339,3.250 40.464,3.000 40.339,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="40.839,3.000 40.339,3.250 40.464,3.000 40.339,2.750 "/>
+<line x1="29.049" y1="3.000" x2="30.464" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="30.839,3.000 30.339,3.250 30.464,3.000 30.339,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.839,3.000 30.339,3.250 30.464,3.000 30.339,2.750 "/>
+<line x1="19.000" y1="3.000" x2="20.400" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.400,3.250 20.900,3.000 20.400,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.400,3.250 20.900,3.000 20.400,2.750 "/>
+<rect x="21.000" y="7.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="8.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Clocking wizard</text>
+<text x="25.000" y="9.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+(50MHz, 25MHz)</text>
+<line x1="25.000" y1="6.955" x2="25.000" y2="5.595" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="25.250,5.595 25.000,5.095 24.750,5.595 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="25.250,5.595 25.000,5.095 24.750,5.595 "/>
+<rect x="11.000" y="7.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="8.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+I²S controller</text>
+<text x="15.000" y="9.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+block</text>
+<line x1="20.951" y1="9.000" x2="19.599" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="19.599,8.750 19.099,9.000 19.599,9.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.599,8.750 19.099,9.000 19.599,9.250 "/>
+<rect x="1.000" y="7.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="8.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Camera control</text>
+<text x="5.000" y="9.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+interface</text>
+<line x1="10.951" y1="9.000" x2="9.599" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="9.599,8.750 9.099,9.000 9.599,9.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="9.599,8.750 9.099,9.000 9.599,9.250 "/>
+</svg>

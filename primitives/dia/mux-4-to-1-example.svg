@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="18.560cm" height="14.501cm" viewBox="1.265 0.993 19.825 15.494"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="14.000" y1="6.000" x2="18.000" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<text x="19.000" y="6.294"  fill="#000000" text-anchor="start" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+m</text>
+<line x1="4.000" y1="3.000" x2="8.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,13.000 4.000,13.000 10.000,13.000 10.000,10.333 "/>
+<line x1="4.000" y1="9.000" x2="8.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="5.000" x2="8.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="8.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,15.000 4.000,15.000 12.000,15.000 12.000,9.667 "/>
+<text x="3.000" y="3.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(0)</text>
+<text x="3.000" y="5.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(1)</text>
+<text x="3.000" y="7.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(2)</text>
+<text x="3.000" y="9.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(3)</text>
+<text x="3.000" y="13.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(1)</text>
+<text x="3.000" y="15.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(0)</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="8.000,1.000 8.000,11.000 14.000,9.000 14.000,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="8.000,1.000 8.000,11.000 14.000,9.000 14.000,3.000 "/>
+<text x="11.000" y="5.945"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+</svg>

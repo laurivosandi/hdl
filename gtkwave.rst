@@ -5,7 +5,7 @@ Using GTKWave to analyze waveforms
 
 Consider following VHDL snippet:
 
-.. listing:: src/full_adder_testbench.vhd
+.. listing:: arithmetic/src/full_adder_testbench.vhd
 
 Executing roughly following will generate **full_adder_testbench.vcd** which
 will contain the waveform data:
@@ -26,6 +26,6 @@ Launch GTKWave with the filename as argument:
 On the left hand select signals while holding Shift/Ctrl and hit Append on the bottom.
 Use Shift-Ctrl-R to reload the VCD file without reconfiguring GTKWave signal selection:
 
-.. figure:: img/full-adder-testbench-waveforms.png
+.. figure:: arithmetic/img/full-adder-testbench-waveforms.png
 
     Full adder testbench waveforms in GTKWave

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>Tristate buffer</name>
+    <icon>tristate.png</icon>
+    <connections>
+        <point x="2" y="10"/>
+        <point x="9" y="6"/>
+        <point x="16" y="10"/>
+
+    </connections>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:polygon
+            style="fill: background; stroke-width: 0.1; stroke: foreground;"
+            points="2,2 2,18 16,10"/>
+    </svg:svg>
+</shape>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="40.100cm" height="13.598cm" viewBox="0.950 3.950 41.050 17.547"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="31.000" y="4.000" width="8.000" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="4.000" width="8.000" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="5.895"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Resume</text>
+<text x="35.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+corresponding</text>
+<text x="35.000" y="7.495"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+process</text>
+<rect x="21.000" y="12.000" width="8.000" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="12.000" width="8.000" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="14.295"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Suspend</text>
+<text x="25.000" y="15.095"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+processes</text>
+<line x1="9.049" y1="6.500" x2="10.464" y2="6.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="10.839,6.500 10.339,6.750 10.464,6.500 10.339,6.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.839,6.500 10.339,6.750 10.464,6.500 10.339,6.250 "/>
+<rect x="1.000" y="4.000" width="8.000" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="4.000" width="8.000" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="5.895"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Initialize signals</text>
+<text x="5.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+with</text>
+<text x="5.000" y="7.495"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+default values</text>
+<rect x="11.000" y="4.000" width="8.000" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="4.000" width="8.000" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="6.295"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Advance</text>
+<text x="15.000" y="7.095"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+simulation time</text>
+<line x1="19.049" y1="6.500" x2="20.464" y2="6.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.839,6.500 20.339,6.750 20.464,6.500 20.339,6.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.839,6.500 20.339,6.750 20.464,6.500 20.339,6.250 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="35.000,12.000 39.000,14.500 35.000,17.000 31.000,14.500 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="35.000,12.000 39.000,14.500 35.000,17.000 31.000,14.500 "/>
+<text x="35.000" y="14.295"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Signals</text>
+<text x="35.000" y="15.095"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+changed</text>
+<rect x="21.000" y="4.000" width="8.000" height="5.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="4.000" width="8.000" height="5.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="5.895"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Schedule</text>
+<text x="25.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+transactions</text>
+<text x="25.000" y="7.495"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+on signals</text>
+<line x1="29.049" y1="6.500" x2="30.464" y2="6.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="30.839,6.500 30.339,6.750 30.464,6.500 30.339,6.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.839,6.500 30.339,6.750 30.464,6.500 30.339,6.250 "/>
+<line x1="30.950" y1="14.500" x2="29.536" y2="14.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="29.161,14.500 29.661,14.250 29.536,14.500 29.661,14.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="29.161,14.500 29.661,14.250 29.536,14.500 29.661,14.750 "/>
+<text x="34.000" y="10.595"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Signal</text>
+<text x="34.000" y="11.395"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+propagation</text>
+<text x="30.000" y="16.595"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Signals</text>
+<text x="30.000" y="17.395"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+settled</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="39.000,6.500 41.000,6.500 41.000,14.500 39.487,14.500 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="39.112,14.500 39.612,14.250 39.487,14.500 39.612,14.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="39.112,14.500 39.612,14.250 39.487,14.500 39.612,14.750 "/>
+<line x1="35.000" y1="11.950" x2="35.000" y2="9.536" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="35.000,9.161 35.250,9.661 35.000,9.536 34.750,9.661 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="35.000,9.161 35.250,9.661 35.000,9.536 34.750,9.661 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.000,14.500 15.000,14.500 15.000,9.487 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="15.000,9.112 15.250,9.612 15.000,9.487 14.750,9.612 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.000,9.112 15.250,9.612 15.000,9.487 14.750,9.612 "/>
+</svg>

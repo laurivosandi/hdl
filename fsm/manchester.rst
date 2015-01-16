@@ -1,0 +1,141 @@
+.. tags: VHDL, KTH, Manchester
+
+Manchester coding
+=================
+
+Introduction
+------------
+
+Manchester coding also known as phase coding is used in IEEE 802.3 (Ethernet) standards.
+In IEEE 802.2 data bit 1 is encoded as rising edge and
+data bit 0 is encoded as falling edge.
+
+Sequential 11 and 00 is considered illegal state and
+next input should be ignored to synchronize. Therefore total of
+three inputs should be discarded.
+
+.. figure:: dia/manchester-decoder-specification.svg
+
+    Manchester decoder specification, input sequence corresponding to output sequence.
+    
+Note that this is NFA (nondeterministic finite automaton) due to the fact
+that there is no way to know where to go with only one lookahead symbol.
+
+.. figure:: dia/manchester-decoder-specification-reduced.svg
+
+    Reduced state diagram
+
+
+Mealy version
+-------------
+
+The outputs are scheduled as early as possible while avoiding conflicts.
+
+
+.. figure:: dia/manchester-decoder-as-mealy.svg
+
+    Manchester decoder as Mealy machine
+
+Next step is to label states.
+
+.. figure:: dia/manchester-decoder-as-mealy-labeled.svg
+
+    Manchester decoder as Mealy machine
+    
+Corresponding flow table:
+
++-----------+-------------+-------------+
+| State tag | Next state  | Output      |
+|           +------+------+------+------+
+|           | I=0  | I=1  | I=0  | I=1  |
++-----------+------+------+------+------+
+| S0        | S1   | S3   | 0    | 1    |
++-----------+------+------+------+------+
+| S1        | S2   | S0   | –    | 0    |
++-----------+------+------+------+------+
+| S2        | S0   | S0   | –    | –    |
++-----------+------+------+------+------+
+| S3        | S4   | S0   | 1    | –    |
++-----------+------+------+------+------+
+| S4        | S0   | S0   | –    | –    |
++-----------+------+------+------+------+
+
+Next step is to substitute don't care outputs for example with zeros.
+All output combinations that are the same belong to the same class.
+Classes that have the same future are equivalent.
+Thus S2 and S4 can be merged.
+
++-----------+-------------+-------------+
+| State tag | Next state  | Output      |
+|           +------+------+------+------+
+|           | I=0  | I=1  | I=0  | I=1  |
++-----------+------+------+------+------+
+| E0        | E1   | E3   | 0    | 1    |
++-----------+------+------+------+------+
+| E1        | E0   | E2   | 1    | 0    |
++-----------+------+------+------+------+
+| E2        | E0   | E0   | 0    | 0    |
++-----------+------+------+------+------+
+| E3        | E2   | E0   | 1    | 0    |
++-----------+------+------+------+------+
+
+.. figure:: dia/manchester-decoder-as-mealy-labeled-minimized.svg
+
+    Minimized state diagram
+    
+
+State encoding
+--------------
+
+There are many possible ways to encode states in logic:
+
++-----------------+-----------------+-----------------+-----------------+
+| State tag       | Binary encoding | Gray encoding   | One-hot         |
++-----------------+-----------------+-----------------+-----------------+
+| E0              | 00              | 00              | 0001            |
++-----------------+-----------------+-----------------+-----------------+
+| E1              | 01              | 01              | 0010            |
++-----------------+-----------------+-----------------+-----------------+
+| E2              | 10              | 11              | 0100            |
++-----------------+-----------------+-----------------+-----------------+
+| E3              | 11              | 10              | 1000            |
++-----------------+-----------------+-----------------+-----------------+
+
+Binary encoding yields total hamming distance of 10:
+
+.. figure:: dia/manchester-decoder-as-mealy-binary-hamming-distance.svg
+
+    Hamming distances of transitions using binary encoding.
+    
+Binary encoding yields total hamming distance of 8:
+
+.. figure:: dia/manchester-decoder-as-mealy-gray-hamming-distance.svg
+
+    Hamming distances of transitions using Gray encoding.
+    
+Hamming distances using one-hot encoding yields total distance of 14:
+
+.. figure:: dia/manchester-decoder-as-mealy-one-hot-hamming-distance.svg
+
+    Hamming distances of transitions using one-hot encoding.
+
+
+Encoding
+--------
+
+In case of encoding the clock runs at twice higher frequency than
+data lines. Output is esentially XOR operation on clock and data.
+
++------+-------+--------+
+| data | clock | output |
++------+-------+--------+
+| 0    | 0     | 0      |
++------+-------+--------+
+| 0    | 1     | 1      |
++------+-------+--------+
+| 1    | 0     | 1      |
++------+-------+--------+
+| 1    | 1     | 0      |
++------+-------+--------+
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="12.973cm" height="8.414cm" viewBox="0.308 0.393 13.280 8.807"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="7.400" y1="1.600" x2="5.400" y2="1.600" stroke="#000000" stroke-width="0.100" />
+<line x1="5.400" y1="7.600" x2="7.400" y2="7.600" stroke="#000000" stroke-width="0.100" />
+<line x1="12.400" y1="2.200" x2="11.000" y2="2.200" stroke="#000000" stroke-width="0.100" />
+<line x1="12.400" y1="7.000" x2="11.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<text x="12.600" y="2.421"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<text x="12.600" y="7.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Q&apos;</text>
+<line x1="10.400" y1="2.200" x2="10.800" y2="2.200" stroke="#000000" stroke-width="0.100" />
+<line x1="10.400" y1="7.000" x2="10.800" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 10.400,7.000 C 10.400,7.600 9.800,8.200 8.900,8.200 C 8.150,8.200 7.400,8.200 7.400,8.200 L 7.400,5.800 C 7.400,5.800 8.150,5.800 8.900,5.800 C 9.650,5.800 10.400,6.400 10.400,7.000 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 10.400,7.000 C 10.400,7.600 9.800,8.200 8.900,8.200 C 8.150,8.200 7.400,8.200 7.400,8.200 L 7.400,5.800 C 7.400,5.800 8.150,5.800 8.900,5.800 C 9.650,5.800 10.400,6.400 10.400,7.000 "/>
+<ellipse cx="10.400" cy="7.000" rx="0.090" ry="0.090" fill="#FFFFFF" stroke="none"  /><ellipse cx="10.400" cy="7.000" rx="0.090" ry="0.090" fill="none" stroke="#000000"  stroke-width="0.100" /><path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 10.400,2.200 C 10.400,2.800 9.800,3.400 8.900,3.400 C 8.150,3.400 7.400,3.400 7.400,3.400 L 7.400,1.000 C 7.400,1.000 8.150,1.000 8.900,1.000 C 9.650,1.000 10.400,1.600 10.400,2.200 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 10.400,2.200 C 10.400,2.800 9.800,3.400 8.900,3.400 C 8.150,3.400 7.400,3.400 7.400,3.400 L 7.400,1.000 C 7.400,1.000 8.150,1.000 8.900,1.000 C 9.650,1.000 10.400,1.600 10.400,2.200 "/>
+<ellipse cx="10.400" cy="2.200" rx="0.090" ry="0.090" fill="#FFFFFF" stroke="none"  /><ellipse cx="10.400" cy="2.200" rx="0.090" ry="0.090" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="10.900" cy="7.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><ellipse cx="10.900" cy="7.000" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="10.900" cy="2.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><ellipse cx="10.900" cy="2.200" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="2.400" y1="1.000" x2="1.000" y2="1.000" stroke="#000000" stroke-width="0.100" />
+<text x="0.800" y="1.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+D</text>
+<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 5.400,7.600 C 5.400,8.200 4.800,8.800 3.900,8.800 C 3.150,8.800 2.400,8.800 2.400,8.800 L 2.400,6.400 C 2.400,6.400 3.150,6.400 3.900,6.400 C 4.650,6.400 5.400,7.000 5.400,7.600 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 5.400,7.600 C 5.400,8.200 4.800,8.800 3.900,8.800 C 3.150,8.800 2.400,8.800 2.400,8.800 L 2.400,6.400 C 2.400,6.400 3.150,6.400 3.900,6.400 C 4.650,6.400 5.400,7.000 5.400,7.600 "/>
+<ellipse cx="5.400" cy="7.600" rx="0.090" ry="0.090" fill="#FFFFFF" stroke="none"  /><ellipse cx="5.400" cy="7.600" rx="0.090" ry="0.090" fill="none" stroke="#000000"  stroke-width="0.100" /><path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 5.400,1.600 C 5.400,2.200 4.800,2.800 3.900,2.800 C 3.150,2.800 2.400,2.800 2.400,2.800 L 2.400,0.400 C 2.400,0.400 3.150,0.400 3.900,0.400 C 4.650,0.400 5.400,1.000 5.400,1.600 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d="M 5.400,1.600 C 5.400,2.200 4.800,2.800 3.900,2.800 C 3.150,2.800 2.400,2.800 2.400,2.800 L 2.400,0.400 C 2.400,0.400 3.150,0.400 3.900,0.400 C 4.650,0.400 5.400,1.000 5.400,1.600 "/>
+<ellipse cx="5.400" cy="1.600" rx="0.090" ry="0.090" fill="#FFFFFF" stroke="none"  /><ellipse cx="5.400" cy="1.600" rx="0.090" ry="0.090" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="1.600" cy="4.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><ellipse cx="1.600" cy="4.600" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="2.400,8.200 1.600,8.200 1.600,4.700 1.600,4.700 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="2.400,2.200 1.600,2.200 1.600,4.500 1.600,4.500 "/>
+<text x="0.800" y="4.821"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+E</text>
+<line x1="1.000" y1="4.600" x2="1.500" y2="4.600" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="7.400,2.800 6.800,2.800 6.800,4.825 10.900,4.825 10.900,6.900 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="10.900,2.300 10.900,4.100 6.000,4.100 6.000,6.400 7.400,6.400 "/>
+<ellipse cx="6.425" cy="1.613" rx="0.100" ry="0.100" fill="#000000" stroke="none"  /><ellipse cx="6.425" cy="1.613" rx="0.100" ry="0.100" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="2.400,7.000 2.025,7.000 2.025,3.513 6.425,3.513 6.425,1.713 "/>
+</svg>

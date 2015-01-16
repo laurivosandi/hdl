@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="29.100cm" height="24.100cm" viewBox="-0.050 0.950 29.050 25.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="0.000" y1="15.000" x2="29.000" y2="15.000" stroke="#7F7F7F" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<text x="28.000" y="14.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+C code running on ARM cores</text>
+<text x="28.000" y="16.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+VHDL code running on programmable fabric</text>
+<rect x="3.000" y="1.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="3.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Userspace</text>
+<text x="7.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+test application</text>
+<rect x="3.000" y="19.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="3.000" y="19.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.000" y="20.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI4 Direct</text>
+<text x="7.000" y="21.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Memory Access</text>
+<rect x="3.000" y="13.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.000" y="13.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.000" y="15.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+DDR memory</text>
+<line x1="9.000" y1="17.000" x2="9.000" y2="18.513" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="9.000,18.888 8.750,18.388 9.000,18.513 9.250,18.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="9.000,18.888 8.750,18.388 9.000,18.513 9.250,18.388 "/>
+<line x1="9.000" y1="11.000" x2="9.000" y2="12.450" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="8.750,12.450 9.000,12.950 9.250,12.450 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="8.750,12.450 9.000,12.950 9.250,12.450 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.000,21.000 13.000,21.000 13.000,25.000 1.000,25.000 1.000,21.000 2.450,21.000 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="2.450,21.250 2.950,21.000 2.450,20.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="2.450,21.250 2.950,21.000 2.450,20.750 "/>
+<rect x="3.000" y="7.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.000" y="9.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+/dev/mem</text>
+<line x1="9.000" y1="5.000" x2="9.000" y2="6.450" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="8.750,6.450 9.000,6.950 9.250,6.450 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="8.750,6.450 9.000,6.950 9.250,6.450 "/>
+<line x1="5.000" y1="13.000" x2="5.000" y2="11.550" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.250,11.550 5.000,11.050 4.750,11.550 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.250,11.550 5.000,11.050 4.750,11.550 "/>
+<line x1="5.000" y1="19.000" x2="5.000" y2="17.550" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.250,17.550 5.000,17.050 4.750,17.550 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.250,17.550 5.000,17.050 4.750,17.550 "/>
+<line x1="5.000" y1="7.000" x2="5.000" y2="5.550" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.250,5.550 5.000,5.050 4.750,5.550 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.250,5.550 5.000,5.050 4.750,5.550 "/>
+</svg>

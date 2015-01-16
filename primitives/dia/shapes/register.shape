@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>Register</name>
+    <icon>register.png</icon>
+    <connections>
+        <point x="2" y="3"/>
+        <point x="2" y="5"/>
+        <point x="3" y="6"/>
+        <point x="3" y="2"/>
+        <point x="4" y="4"/>
+    </connections>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:polygon
+            style="fill: background; stroke-width: 0.1; stroke: foreground;"
+            points="2,2 2,6 4,6 4,2"/>
+        <svg:polyline
+            style="stroke-width: 0.1; stroke: foreground;"
+            points="2,4.5 2.5,5 2,5.5"/>
+    </svg:svg>
+</shape>

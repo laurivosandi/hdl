@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="23.962cm" height="13.055cm" viewBox="1.260 0.950 25.223 14.005"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="15.000,6.000 15.000,14.000 19.000,14.000 19.000,6.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.000,6.000 15.000,14.000 19.000,14.000 19.000,6.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="15.000,11.000 16.000,12.000 15.000,13.000 "/>
+<rect x="7.000" y="2.000" width="6.000" height="8.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.000" y="2.000" width="6.000" height="8.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="10.000" y="5.395"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Next</text>
+<text x="10.000" y="6.195"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+state</text>
+<text x="10.000" y="6.995"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+logic</text>
+<text x="17.000" y="9.821"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+State</text>
+<text x="17.000" y="10.621"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+register</text>
+<line x1="13.000" y1="8.000" x2="15.000" y2="8.000" stroke="#000000" stroke-width="0.100" />
+<line x1="7.000" y1="8.000" x2="4.000" y2="8.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="8.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Input</text>
+<text x="3.000" y="12.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Clock</text>
+<text x="23.000" y="4.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Output</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="19.000,8.000 20.000,8.000 20.000,1.000 6.000,1.000 6.000,4.000 7.000,4.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.000,4.000 14.000,4.000 14.000,4.000 22.000,4.000 "/>
+<line x1="15.000" y1="12.000" x2="4.000" y2="12.000" stroke="#000000" stroke-width="0.100" />
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="7.615cm" height="4.139cm" viewBox="1.167 0.470 8.782 4.609"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="3.600,1.400 3.600,4.600 6.400,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="3.600,1.400 3.600,4.600 6.400,3.000 "/>
+<line x1="5.000" y1="2.200" x2="5.000" y2="0.900" stroke="#000000" stroke-width="0.100" />
+<line x1="7.600" y1="3.000" x2="6.400" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="3.600" y1="3.000" x2="2.100" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="0.733"  fill="#000000" text-anchor="middle" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+Enable</text>
+<text x="7.800" y="3.098"  fill="#000000" text-anchor="start" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+Output</text>
+<text x="1.900" y="3.098"  fill="#000000" text-anchor="end" font-size="0.35" font-family="sans" font-style="normal" font-weight="400">
+Input</text>
+</svg>

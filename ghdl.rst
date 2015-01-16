@@ -35,7 +35,7 @@ I think it's a good convention to keep the entity name synchronized with the fil
 GHDL also seems to look up components by the filename.
 So for example following entity should be saved to **full_adder.vhd**:
 
-.. listing:: src/full_adder.vhd
+.. listing:: arithmetic/src/full_adder.vhd
 
 To compile binary object **full_adder.o** from a VHDL source file **full_adder.vhd** use the -a analyze command-line option:
 
@@ -50,7 +50,7 @@ Elaborating design
 
 Consider following testbench source code in file **full_adder_testbench.vhd**:
 
-.. listing:: src/full_adder_testbench.vhd
+.. listing:: arithmetic/src/full_adder_testbench.vhd
 
 The object file for testbench must be compiled aswell:
 

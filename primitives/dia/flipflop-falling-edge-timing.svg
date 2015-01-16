@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="25.307cm" height="11.014cm" viewBox="2.100 0.995 27.407 12.009"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<text x="3.000" y="3.212"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+d</text>
+<line x1="4.000" y1="3.000" x2="26.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="8.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="7.212"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+clk</text>
+<text x="27.000" y="3.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+q</text>
+<rect x="8.000" y="1.000" width="6.000" height="8.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.000" y="1.000" width="6.000" height="8.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="14.000" cy="7.000" rx="0.300" ry="0.300" fill="#FFFFFF" stroke="none"  /><ellipse cx="14.000" cy="7.000" rx="0.300" ry="0.300" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="9.000" y="2.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+D</text>
+<text x="9.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+E</text>
+<text x="13.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<text x="13.000" y="2.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<rect x="18.000" y="1.000" width="6.000" height="8.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="18.000" y="1.000" width="6.000" height="8.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="24.000" cy="7.000" rx="0.300" ry="0.300" fill="#FFFFFF" stroke="none"  /><ellipse cx="24.000" cy="7.000" rx="0.300" ry="0.300" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="19.000" y="2.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+D</text>
+<text x="19.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+E</text>
+<text x="23.000" y="6.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<text x="23.000" y="2.695"  fill="#000000" text-anchor="middle" font-size="1.00" font-family="sans" font-style="normal" font-weight="400">
+Q</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="18.000,7.000 16.000,7.000 16.000,11.000 11.750,11.000 11.750,11.000 "/>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="10.000,10.000 10.000,12.000 11.750,11.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.000,10.000 10.000,12.000 11.750,11.000 "/>
+<ellipse cx="11.750" cy="11.000" rx="0.250" ry="0.250" fill="#FFFFFF" stroke="none"  /><ellipse cx="11.750" cy="11.000" rx="0.250" ry="0.250" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,7.000 6.000,7.000 6.000,11.000 10.000,11.000 "/>
+<text x="16.000" y="2.221"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+r</text>
+</svg>

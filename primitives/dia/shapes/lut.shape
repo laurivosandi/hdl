@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>4-LUT</name>
+    <icon>lut.png</icon>
+    <connections>
+        <point x="0" y="1"/>
+        <point x="0" y="2"/>
+        <point x="0" y="3"/>
+        <point x="0" y="4"/>
+        <point x="3" y="2.5"/>
+        <point x="1.5" y="2.5" main="yes"/>
+    </connections>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:polygon
+            style="fill: background; stroke-width: 0.1; stroke: foreground;"
+            points="0,0 0,5 3,5 3,0"/>
+        <svg:text
+            style="text-align:center;text-anchor:middle;"
+            x="1.5"
+            y="2.5">4-LUT</svg:text>
+    </svg:svg>
+</shape>

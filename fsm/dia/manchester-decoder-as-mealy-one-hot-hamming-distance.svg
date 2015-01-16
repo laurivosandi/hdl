@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="18.100cm" height="12.100cm" viewBox="0.950 0.950 19.050 13.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="2.883" y1="6.448" x2="8.704" y2="2.810" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="9.022,2.611 8.731,3.088 8.704,2.810 8.466,2.664 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="9.022,2.611 8.731,3.088 8.704,2.810 8.466,2.664 "/>
+<text x="6.000" y="3.810"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="15.000" y="3.810"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<line x1="10.883" y1="2.552" x2="16.704" y2="6.190" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="17.022,6.389 16.466,6.336 16.704,6.190 16.731,5.912 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="17.022,6.389 16.466,6.336 16.704,6.190 16.731,5.912 "/>
+<line x1="2.883" y1="7.552" x2="8.704" y2="11.190" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="9.022,11.389 8.466,11.336 8.704,11.190 8.731,10.912 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="9.022,11.389 8.466,11.336 8.704,11.190 8.731,10.912 "/>
+<line x1="10.883" y1="11.448" x2="16.704" y2="7.810" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="17.022,7.611 16.731,8.088 16.704,7.810 16.466,7.664 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="17.022,7.611 16.731,8.088 16.704,7.810 16.466,7.664 "/>
+<text x="3.000" y="11.614"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="3.000" y="2.810"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="6.000" y="10.810"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<text x="15.000" y="11.000"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<ellipse cx="10.000" cy="2.000" rx="1.000" ry="1.000" fill="#FFFFFF" stroke="none"  /><ellipse cx="10.000" cy="2.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="10.000" y="2.212"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+E1</text>
+<ellipse cx="2.000" cy="7.000" rx="1.000" ry="1.000" fill="#FFFFFF" stroke="none"  /><ellipse cx="2.000" cy="7.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="2.000" y="7.221"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+E0</text>
+<ellipse cx="10.000" cy="12.000" rx="1.000" ry="1.000" fill="#FFFFFF" stroke="none"  /><ellipse cx="10.000" cy="12.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="10.000" y="12.221"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+E3</text>
+<ellipse cx="18.000" cy="7.000" rx="1.000" ry="1.000" fill="#FFFFFF" stroke="none"  /><ellipse cx="18.000" cy="7.000" rx="1.000" ry="1.000" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="18.000" y="7.221"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+E2</text>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 9.036,1.584 A 5.398,5.398 0 0,0 2.140,5.475 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="2.065,5.841 1.889,5.310 2.119,5.470 2.384,5.382 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="2.065,5.841 1.889,5.310 2.119,5.470 2.384,5.382 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 2.140,8.525 A 5.398,5.398 0 0,0 9.036,12.416 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="2.065,8.159 2.384,8.618 2.119,8.530 1.889,8.690 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="2.065,8.159 2.384,8.618 2.119,8.530 1.889,8.690 "/>
+<text x="10.000" y="6.212"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+2</text>
+<line x1="16.951" y1="7.000" x2="3.536" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="3.161,7.000 3.661,6.750 3.536,7.000 3.661,7.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="3.161,7.000 3.661,6.750 3.536,7.000 3.661,7.250 "/>
+</svg>

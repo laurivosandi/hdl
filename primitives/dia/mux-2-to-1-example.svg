@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="12.560cm" height="10.502cm" viewBox="1.265 0.992 13.825 11.494"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="10.000" y1="5.000" x2="12.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<text x="13.000" y="5.294"  fill="#000000" text-anchor="start" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+m</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,11.000 4.000,11.000 9.000,11.000 9.000,7.505 "/>
+<text x="3.000" y="3.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(0)</text>
+<text x="3.000" y="7.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(1)</text>
+<text x="3.000" y="11.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="6.000,1.000 6.000,9.000 10.000,7.000 10.000,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,1.000 6.000,9.000 10.000,7.000 10.000,3.000 "/>
+<text x="8.000" y="4.945"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+2:1</text>
+<line x1="6.000" y1="3.000" x2="4.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="6.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+</svg>

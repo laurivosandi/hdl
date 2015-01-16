@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="28.100cm" height="15.100cm" viewBox="0.950 0.950 29.050 16.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="11.000" y="1.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI4-Stream to</text>
+<text x="15.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video Out v3.0</text>
+<rect x="21.000" y="1.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video output</text>
+<text x="25.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+(VGA, HDMI, etc)</text>
+<line x1="19.049" y1="3.000" x2="20.464" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.839,3.000 20.339,3.250 20.464,3.000 20.339,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.839,3.000 20.339,3.250 20.464,3.000 20.339,2.750 "/>
+<rect x="11.000" y="7.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="8.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video Timing</text>
+<text x="15.000" y="9.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Controller v6.1</text>
+<line x1="15.000" y1="6.955" x2="15.000" y2="5.595" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="15.250,5.595 15.000,5.095 14.750,5.595 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.250,5.595 15.000,5.095 14.750,5.595 "/>
+<rect x="11.000" y="13.000" width="8.000" height="3.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="13.000" width="8.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="14.265"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Clocking</text>
+<text x="15.000" y="15.183"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Wizard</text>
+<line x1="15.000" y1="12.950" x2="15.000" y2="11.600" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="15.250,11.600 15.000,11.100 14.750,11.600 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="15.250,11.600 15.000,11.100 14.750,11.600 "/>
+<rect x="1.000" y="1.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="1.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="2.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Test Pattern</text>
+<text x="5.000" y="3.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Generator v6.0</text>
+<line x1="9.049" y1="3.000" x2="10.401" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="10.401,3.250 10.901,3.000 10.401,2.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.401,3.250 10.901,3.000 10.401,2.750 "/>
+</svg>

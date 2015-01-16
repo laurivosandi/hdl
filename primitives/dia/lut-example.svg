@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="66.560cm" height="38.501cm" viewBox="2.265 0.993 68.825 39.494"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="5.000" y1="3.000" x2="7.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.000,33.000 5.000,33.000 51.000,33.000 51.000,30.333 "/>
+<line x1="5.000" y1="9.000" x2="7.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<line x1="5.000" y1="5.000" x2="7.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="5.000" y1="7.000" x2="7.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.000,35.000 5.000,35.000 53.000,35.000 53.000,29.667 "/>
+<text x="4.000" y="3.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(0)</text>
+<text x="4.000" y="5.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(1)</text>
+<text x="4.000" y="7.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(2)</text>
+<text x="4.000" y="9.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(3)</text>
+<text x="4.000" y="35.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(1)</text>
+<text x="4.000" y="33.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(0)</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="7.000,1.000 7.000,11.000 13.000,9.000 13.000,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="7.000,1.000 7.000,11.000 13.000,9.000 13.000,3.000 "/>
+<text x="10.000" y="5.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="21.000,7.000 21.000,17.000 27.000,15.000 27.000,9.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="21.000,7.000 21.000,17.000 27.000,15.000 27.000,9.000 "/>
+<text x="24.000" y="11.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="35.000,14.000 35.000,24.000 41.000,22.000 41.000,16.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="35.000,14.000 35.000,24.000 41.000,22.000 41.000,16.000 "/>
+<text x="38.000" y="18.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="49.000,21.000 49.000,31.000 55.000,29.000 55.000,23.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="49.000,21.000 49.000,31.000 55.000,29.000 55.000,23.000 "/>
+<text x="52.000" y="25.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="59.000,4.000 59.000,14.000 65.000,12.000 65.000,6.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="59.000,4.000 59.000,14.000 65.000,12.000 65.000,6.000 "/>
+<text x="62.000" y="8.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<line x1="39.000" y1="35.000" x2="39.000" y2="22.667" stroke="#000000" stroke-width="0.100" />
+<line x1="37.000" y1="33.000" x2="37.000" y2="23.333" stroke="#000000" stroke-width="0.100" />
+<line x1="19.000" y1="9.000" x2="21.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<line x1="19.000" y1="15.000" x2="21.000" y2="15.000" stroke="#000000" stroke-width="0.100" />
+<line x1="19.000" y1="11.000" x2="21.000" y2="11.000" stroke="#000000" stroke-width="0.100" />
+<line x1="19.000" y1="13.000" x2="21.000" y2="13.000" stroke="#000000" stroke-width="0.100" />
+<text x="18.000" y="9.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(4)</text>
+<text x="18.000" y="11.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(5)</text>
+<text x="18.000" y="13.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(6)</text>
+<text x="18.000" y="15.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(7)</text>
+<line x1="33.000" y1="16.000" x2="35.000" y2="16.000" stroke="#000000" stroke-width="0.100" />
+<text x="32.000" y="16.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(8)</text>
+<text x="32.000" y="18.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(9)</text>
+<text x="32.000" y="20.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(10)</text>
+<text x="32.000" y="22.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(11)</text>
+<line x1="47.000" y1="23.000" x2="49.000" y2="23.000" stroke="#000000" stroke-width="0.100" />
+<line x1="47.000" y1="29.000" x2="49.000" y2="29.000" stroke="#000000" stroke-width="0.100" />
+<line x1="47.000" y1="25.000" x2="49.000" y2="25.000" stroke="#000000" stroke-width="0.100" />
+<line x1="47.000" y1="27.000" x2="49.000" y2="27.000" stroke="#000000" stroke-width="0.100" />
+<text x="46.000" y="23.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(12)</text>
+<text x="46.000" y="25.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(13)</text>
+<text x="46.000" y="27.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(14)</text>
+<text x="46.000" y="29.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+d(15)</text>
+<line x1="13.000" y1="6.000" x2="59.000" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="55.000,26.000 57.000,26.000 57.000,12.000 59.000,12.000 "/>
+<text x="4.000" y="37.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(2)</text>
+<text x="4.000" y="39.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+s(3)</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.000,37.000 5.000,37.000 61.000,37.000 61.000,13.333 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="5.000,39.000 5.000,39.000 63.000,39.000 63.000,12.667 "/>
+<line x1="23.000" y1="33.000" x2="23.000" y2="16.333" stroke="#000000" stroke-width="0.100" />
+<line x1="25.000" y1="35.000" x2="25.000" y2="15.667" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="25.000" cy="35.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="25.000" cy="35.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="39.000" cy="35.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="39.000" cy="35.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="37.000" cy="33.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="37.000" cy="33.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="23.000" cy="33.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="23.000" cy="33.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="9.000" y1="33.000" x2="9.000" y2="10.333" stroke="#000000" stroke-width="0.100" />
+<line x1="11.000" y1="35.000" x2="11.000" y2="9.667" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="11.000" cy="35.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="11.000" cy="35.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="9.000" cy="33.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="9.000" cy="33.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="67.000" y1="9.000" x2="65.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<text x="68.000" y="9.294"  fill="#000000" text-anchor="start" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+m</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="27.000,12.000 53.000,12.000 53.000,8.000 59.000,8.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="41.000,19.000 55.000,19.000 55.000,10.000 59.000,10.000 "/>
+<line x1="35.000" y1="18.000" x2="33.000" y2="18.000" stroke="#000000" stroke-width="0.100" />
+<line x1="35.000" y1="20.000" x2="33.000" y2="20.000" stroke="#000000" stroke-width="0.100" />
+<line x1="35.000" y1="22.000" x2="33.000" y2="22.000" stroke="#000000" stroke-width="0.100" />
+</svg>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="60.100cm" height="29.100cm" viewBox="-0.050 6.950 60.050 36.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="0.000" y1="15.000" x2="60.000" y2="15.000" stroke="#7F7F7F" stroke-width="0.100" stroke-dasharray="0.10,0.10"/>
+<rect x="1.000" y="22.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="22.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="24.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Camera input</text>
+<rect x="11.000" y="22.000" width="8.005" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="22.000" width="8.005" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.003" y="23.307"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Convert to</text>
+<text x="15.003" y="24.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI4-Stream</text>
+<text x="15.003" y="25.141"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video</text>
+<line x1="9.049" y1="24.000" x2="10.464" y2="24.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="10.839,24.000 10.339,24.250 10.464,24.000 10.339,23.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.839,24.000 10.339,24.250 10.464,24.000 10.339,23.750 "/>
+<rect x="31.000" y="13.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="13.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="15.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+DDR memory</text>
+<line x1="33.000" y1="19.000" x2="33.000" y2="17.487" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.000,17.112 33.250,17.612 33.000,17.487 32.750,17.612 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.000,17.112 33.250,17.612 33.000,17.487 32.750,17.612 "/>
+<line x1="37.000" y1="17.000" x2="37.000" y2="18.513" stroke="#E5E5E5" stroke-width="0.100" />
+<polygon fill="#E5E5E5" stroke="none" stroke-width="0.100" points="37.000,18.888 36.750,18.388 37.000,18.513 37.250,18.388 "/>
+<polygon fill="none" stroke="#E5E5E5" stroke-width="0.100"  points="37.000,18.888 36.750,18.388 37.000,18.513 37.250,18.388 "/>
+<rect x="41.000" y="26.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="41.000" y="26.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.000" y="27.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI4-Stream to</text>
+<text x="45.000" y="28.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video Out v3.0</text>
+<rect x="51.000" y="26.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="51.000" y="26.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="55.000" y="27.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video output</text>
+<text x="55.000" y="28.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+(VGA, HDMI, etc)</text>
+<line x1="49.049" y1="28.000" x2="50.464" y2="28.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="50.839,28.000 50.339,28.250 50.464,28.000 50.339,27.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="50.839,28.000 50.339,28.250 50.464,28.000 50.339,27.750 "/>
+<line x1="39.000" y1="21.000" x2="40.464" y2="21.000" stroke="#E5E5E5" stroke-width="0.100" />
+<polygon fill="#E5E5E5" stroke="none" stroke-width="0.100" points="40.839,21.000 40.339,21.250 40.464,21.000 40.339,20.750 "/>
+<polygon fill="none" stroke="#E5E5E5" stroke-width="0.100"  points="40.839,21.000 40.339,21.250 40.464,21.000 40.339,20.750 "/>
+<rect x="31.000" y="32.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="32.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="33.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Clocking</text>
+<text x="35.000" y="34.682"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Wizard</text>
+<rect x="41.000" y="32.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="41.000" y="32.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.000" y="33.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video Timing</text>
+<text x="45.000" y="34.682"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Controller v6.1</text>
+<rect x="31.000" y="19.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="19.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="20.307"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI Video Direct</text>
+<text x="35.000" y="21.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Memory Access</text>
+<text x="35.000" y="22.141"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+v6.2</text>
+<line x1="39.049" y1="34.000" x2="40.401" y2="34.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="40.401,34.250 40.901,34.000 40.401,33.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="40.401,34.250 40.901,34.000 40.401,33.750 "/>
+<text x="1.000" y="14.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+C code running on ARM cores</text>
+<text x="1.000" y="16.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+VHDL code running on programmable fabric</text>
+<rect x="11.000" y="32.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="11.000" y="32.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="15.000" y="33.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+I²S controller</text>
+<text x="15.000" y="34.682"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+block</text>
+<rect x="1.000" y="32.000" width="8.000" height="4.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.000" y="32.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.000" y="33.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Camera control</text>
+<text x="5.000" y="34.682"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+interface</text>
+<line x1="9.049" y1="34.000" x2="10.401" y2="34.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="10.401,34.250 10.901,34.000 10.401,33.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="10.401,34.250 10.901,34.000 10.401,33.750 "/>
+<line x1="30.951" y1="34.000" x2="19.599" y2="34.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="19.599,33.750 19.099,34.000 19.599,34.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.599,33.750 19.099,34.000 19.599,34.250 "/>
+<rect x="21.000" y="22.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="22.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="25.000" y="23.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AXI4-Stream</text>
+<text x="25.000" y="24.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Broadcaster v1.1</text>
+<line x1="29.049" y1="22.785" x2="30.424" y2="22.373" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="30.496,22.612 30.903,22.229 30.352,22.133 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.496,22.612 30.903,22.229 30.352,22.133 "/>
+<line x1="19.055" y1="24.000" x2="20.400" y2="24.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.400,24.250 20.900,24.000 20.400,23.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.400,24.250 20.900,24.000 20.400,23.750 "/>
+<line x1="29.049" y1="25.620" x2="30.440" y2="26.176" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="30.347,26.408 30.905,26.362 30.533,25.944 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.347,26.408 30.905,26.362 30.533,25.944 "/>
+<line x1="45.000" y1="31.955" x2="45.000" y2="30.595" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="45.250,30.595 45.000,30.095 44.750,30.595 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="45.250,30.595 45.000,30.095 44.750,30.595 "/>
+<rect x="31.000" y="7.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="8.765"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video4Linux2</text>
+<text x="35.000" y="9.683"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+kernel module</text>
+<rect x="41.000" y="7.000" width="8.000" height="4.000" fill="#ADD8E6" stroke="none" stroke-width="0"/>
+<rect x="41.000" y="7.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="45.000" y="8.307"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Video4Linux2</text>
+<text x="45.000" y="9.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+userspace</text>
+<text x="45.000" y="10.141"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+application</text>
+<line x1="33.000" y1="13.000" x2="33.000" y2="11.550" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.250,11.550 33.000,11.050 32.750,11.550 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.250,11.550 33.000,11.050 32.750,11.550 "/>
+<line x1="39.049" y1="9.000" x2="40.401" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="40.401,9.250 40.901,9.000 40.401,8.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="40.401,9.250 40.901,9.000 40.401,8.750 "/>
+<rect x="31.000" y="26.000" width="8.000" height="4.000" fill="#90EE90" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="26.000" width="8.000" height="4.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="35.000" y="27.307"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+AX4-Stream</text>
+<text x="35.000" y="28.224"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Subset</text>
+<text x="35.000" y="29.141"  fill="#000000" text-anchor="middle" font-size="0.92" font-family="sans" font-style="normal" font-weight="400">
+Converter v1.1</text>
+<line x1="39.049" y1="28.000" x2="40.401" y2="28.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="40.401,28.250 40.901,28.000 40.401,27.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="40.401,28.250 40.901,28.000 40.401,27.750 "/>
+</svg>

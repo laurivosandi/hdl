@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="20.555cm" height="42.501cm" viewBox="1.030 0.993 21.585 43.494"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="4.000" y1="3.000" x2="6.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,37.000 4.000,37.000 8.000,37.000 8.000,34.200 "/>
+<line x1="4.000" y1="9.000" x2="6.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="5.000" x2="6.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="7.000" x2="6.000" y2="7.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,39.000 4.000,39.000 10.000,39.000 10.000,33.400 "/>
+<text x="3.000" y="3.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="3.000" y="5.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="7.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="9.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="3.000" y="39.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+in(1)</text>
+<text x="3.000" y="37.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+in(0)</text>
+<line x1="4.000" y1="11.000" x2="6.000" y2="11.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="17.000" x2="6.000" y2="17.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="13.000" x2="6.000" y2="13.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="15.000" x2="6.000" y2="15.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="11.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="3.000" y="13.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="15.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="17.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<line x1="4.000" y1="19.000" x2="6.000" y2="19.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="19.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="3.000" y="21.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="23.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="25.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<line x1="4.000" y1="25.000" x2="6.000" y2="25.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="31.000" x2="6.000" y2="31.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="27.000" x2="6.000" y2="27.000" stroke="#000000" stroke-width="0.100" />
+<line x1="4.000" y1="29.000" x2="6.000" y2="29.000" stroke="#000000" stroke-width="0.100" />
+<text x="3.000" y="33.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="27.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="29.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="31.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="3.000" y="41.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+in(2)</text>
+<text x="3.000" y="43.294"  fill="#000000" text-anchor="end" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+in(3)</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,41.000 4.000,41.000 12.000,41.000 12.000,32.600 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="4.000,43.000 4.000,43.000 14.000,43.000 14.000,31.800 "/>
+<text x="19.000" y="18.294"  fill="#000000" text-anchor="start" font-size="1.06" font-family="sans" font-style="normal" font-weight="400">
+out(1)</text>
+<line x1="6.000" y1="21.000" x2="4.000" y2="21.000" stroke="#000000" stroke-width="0.100" />
+<line x1="6.000" y1="23.000" x2="4.000" y2="23.000" stroke="#000000" stroke-width="0.100" />
+<line x1="6.000" y1="33.000" x2="4.000" y2="33.000" stroke="#000000" stroke-width="0.100" />
+<line x1="16.000" y1="18.000" x2="18.000" y2="18.000" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="6.000,1.000 6.000,35.000 16.000,31.000 16.000,5.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="6.000,1.000 6.000,35.000 16.000,31.000 16.000,5.000 "/>
+<text x="11.000" y="17.945"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+16:1</text>
+</svg>

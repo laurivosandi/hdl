@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="122.063cm" height="11.840cm" viewBox="-0.063 1.097 122.000 12.937"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="2.000" y="3.000" width="25.000" height="9.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="2.000" y="3.000" width="25.000" height="9.000" fill="none" stroke="#000000" stroke-width="0.001" />
+<ellipse cx="12.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="12.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+H15</text>
+<ellipse cx="16.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="16.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="16.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+J15</text>
+<ellipse cx="20.497" cy="5.497" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="20.497" cy="5.497" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="20.497" y="5.738"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W16</text>
+<ellipse cx="24.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="24.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="24.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V12</text>
+<ellipse cx="12.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="12.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+Y17</text>
+<ellipse cx="16.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="16.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="16.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T17</text>
+<ellipse cx="20.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="20.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="20.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+U17</text>
+<ellipse cx="24.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="24.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="24.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V13</text>
+<ellipse cx="4.436" cy="5.436" rx="1.562" ry="1.562" fill="#E5E5E5" stroke="none"  /><ellipse cx="4.436" cy="5.436" rx="1.562" ry="1.562" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="4.436" y="5.677"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="8.506" cy="5.506" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="8.506" cy="5.506" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="8.506" y="5.748"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<ellipse cx="4.500" cy="9.500" rx="1.563" ry="1.563" fill="#E5E5E5" stroke="none"  /><ellipse cx="4.500" cy="9.500" rx="1.563" ry="1.563" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="4.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="8.500" cy="9.500" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="8.500" cy="9.500" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="8.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<rect x="-0.063" y="11.937" width="122.063" height="1.000" fill="#008000" stroke="none" stroke-width="0"/>
+<rect x="-0.063" y="11.937" width="122.063" height="1.000" fill="none" stroke="#000000" stroke-width="0.001" />
+<rect x="32.937" y="2.937" width="25.000" height="9.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="32.937" y="2.937" width="25.000" height="9.000" fill="none" stroke="#000000" stroke-width="0.001" />
+<ellipse cx="43.374" cy="5.374" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="43.374" cy="5.374" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="43.374" y="5.615"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+R14</text>
+<ellipse cx="47.374" cy="5.374" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="47.374" cy="5.374" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="47.374" y="5.615"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+P14</text>
+<ellipse cx="51.434" cy="5.434" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="51.434" cy="5.434" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="51.434" y="5.675"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T15</text>
+<ellipse cx="55.374" cy="5.374" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="55.374" cy="5.374" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="55.374" y="5.615"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T14</text>
+<ellipse cx="43.437" cy="9.437" rx="1.632" ry="1.632" fill="#E5E5E5" stroke="none"  /><ellipse cx="43.437" cy="9.437" rx="1.632" ry="1.632" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="43.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V18</text>
+<ellipse cx="47.437" cy="9.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="47.437" cy="9.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="47.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V17</text>
+<ellipse cx="51.437" cy="9.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="51.437" cy="9.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="51.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+U15</text>
+<ellipse cx="55.437" cy="9.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="55.437" cy="9.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="55.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+U14</text>
+<ellipse cx="35.373" cy="5.373" rx="1.562" ry="1.562" fill="#E5E5E5" stroke="none"  /><ellipse cx="35.373" cy="5.373" rx="1.562" ry="1.562" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="35.373" y="5.614"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="39.443" cy="5.443" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="39.443" cy="5.443" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="39.443" y="5.684"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<ellipse cx="35.437" cy="9.437" rx="1.563" ry="1.563" fill="#E5E5E5" stroke="none"  /><ellipse cx="35.437" cy="9.437" rx="1.563" ry="1.563" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="35.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="39.437" cy="9.437" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="39.437" cy="9.437" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="39.437" y="9.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<text x="2.937" y="1.937"  fill="#000000" text-anchor="start" font-size="1.13" font-family="sans" font-style="normal" font-weight="400">
+JE (Standard Pmod, 200Ω resistors)</text>
+<text x="33.937" y="1.937"  fill="#000000" text-anchor="start" font-size="1.13" font-family="sans" font-style="normal" font-weight="400">
+JD (Hi-Speed Pmod, no resistors)</text>
+<rect x="64.000" y="3.000" width="25.000" height="9.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="64.000" y="3.000" width="25.000" height="9.000" fill="none" stroke="#000000" stroke-width="0.001" />
+<ellipse cx="74.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="74.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="74.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T10</text>
+<ellipse cx="78.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="78.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="78.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T11</text>
+<ellipse cx="82.497" cy="5.497" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="82.497" cy="5.497" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="82.497" y="5.738"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W15</text>
+<ellipse cx="86.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="86.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="86.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V15</text>
+<ellipse cx="74.500" cy="9.500" rx="1.632" ry="1.632" fill="#E5E5E5" stroke="none"  /><ellipse cx="74.500" cy="9.500" rx="1.632" ry="1.632" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="74.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+U12</text>
+<ellipse cx="78.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="78.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="78.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T12</text>
+<ellipse cx="82.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="82.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="82.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+Y14</text>
+<ellipse cx="86.500" cy="9.500" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="86.500" cy="9.500" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="86.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W14</text>
+<ellipse cx="66.436" cy="5.436" rx="1.562" ry="1.562" fill="#E5E5E5" stroke="none"  /><ellipse cx="66.436" cy="5.436" rx="1.562" ry="1.562" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="66.436" y="5.677"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="70.506" cy="5.506" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="70.506" cy="5.506" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="70.506" y="5.748"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<ellipse cx="66.500" cy="9.500" rx="1.563" ry="1.563" fill="#E5E5E5" stroke="none"  /><ellipse cx="66.500" cy="9.500" rx="1.563" ry="1.563" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="66.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="70.500" cy="9.500" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="70.500" cy="9.500" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="70.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<text x="65.000" y="2.000"  fill="#000000" text-anchor="start" font-size="1.13" font-family="sans" font-style="normal" font-weight="400">
+JC (Hi-Speed Pmod, no resistors)</text>
+<rect x="95.000" y="3.000" width="25.000" height="9.000" fill="#000000" stroke="none" stroke-width="0"/>
+<rect x="95.000" y="3.000" width="25.000" height="9.000" fill="none" stroke="#000000" stroke-width="0.001" />
+<ellipse cx="105.437" cy="5.437" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="105.437" cy="5.437" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="105.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W20</text>
+<ellipse cx="109.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="109.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="109.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+V20</text>
+<ellipse cx="113.497" cy="5.497" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="113.497" cy="5.497" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="113.497" y="5.738"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+U20</text>
+<ellipse cx="117.437" cy="5.437" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="117.437" cy="5.437" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="117.437" y="5.678"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+T20</text>
+<ellipse cx="105.500" cy="9.500" rx="1.632" ry="1.632" fill="#E5E5E5" stroke="none"  /><ellipse cx="105.500" cy="9.500" rx="1.632" ry="1.632" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="105.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W19</text>
+<ellipse cx="109.500" cy="9.500" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="109.500" cy="9.500" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="109.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+W18</text>
+<ellipse cx="113.500" cy="9.500" rx="1.500" ry="1.500" fill="#E5E5E5" stroke="none"  /><ellipse cx="113.500" cy="9.500" rx="1.500" ry="1.500" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="113.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+Y19</text>
+<ellipse cx="117.500" cy="9.500" rx="1.560" ry="1.560" fill="#E5E5E5" stroke="none"  /><ellipse cx="117.500" cy="9.500" rx="1.560" ry="1.560" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="117.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+Y18</text>
+<ellipse cx="97.436" cy="5.436" rx="1.562" ry="1.562" fill="#E5E5E5" stroke="none"  /><ellipse cx="97.436" cy="5.436" rx="1.562" ry="1.562" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="97.436" y="5.677"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="101.506" cy="5.506" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="101.506" cy="5.506" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="101.506" y="5.748"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<ellipse cx="97.500" cy="9.500" rx="1.563" ry="1.563" fill="#E5E5E5" stroke="none"  /><ellipse cx="97.500" cy="9.500" rx="1.563" ry="1.563" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="97.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+3.3V</text>
+<ellipse cx="101.500" cy="9.500" rx="1.570" ry="1.570" fill="#E5E5E5" stroke="none"  /><ellipse cx="101.500" cy="9.500" rx="1.570" ry="1.570" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="101.500" y="9.741"  fill="#000000" text-anchor="middle" font-size="0.99" font-family="sans" font-style="normal" font-weight="400">
+GND</text>
+<text x="96.000" y="2.000"  fill="#000000" text-anchor="start" font-size="1.13" font-family="sans" font-style="normal" font-weight="400">
+JB (Hi-Speed Pmod, no resistors)</text>
+</svg>

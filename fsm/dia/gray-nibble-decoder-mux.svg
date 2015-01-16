@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="42.445cm" height="30.381cm" viewBox="0.510 0.993 42.955 31.374"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="20.000,7.000 20.000,17.000 26.000,15.000 26.000,9.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.000,7.000 20.000,17.000 26.000,15.000 26.000,9.000 "/>
+<text x="23.000" y="11.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="31.000,1.000 31.000,11.000 37.000,9.000 37.000,3.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="31.000,1.000 31.000,11.000 37.000,9.000 37.000,3.000 "/>
+<text x="34.000" y="5.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="33.000,10.333 33.000,25.000 3.000,25.000 3.000,25.000 "/>
+<text x="2.000" y="27.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+in(1)</text>
+<line x1="37.004" y1="6.000" x2="39.000" y2="6.000" stroke="#000000" stroke-width="0.100" />
+<text x="41.000" y="6.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+out(0)</text>
+<text x="2.000" y="31.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+in(3)</text>
+<line x1="26.000" y1="12.000" x2="39.000" y2="12.000" stroke="#000000" stroke-width="0.100" />
+<line x1="3.000" y1="3.000" x2="31.000" y2="3.000" stroke="#000000" stroke-width="0.100" />
+<line x1="3.000" y1="5.000" x2="31.000" y2="5.000" stroke="#000000" stroke-width="0.100" />
+<line x1="16.200" y1="9.000" x2="20.000" y2="9.000" stroke="#000000" stroke-width="0.100" />
+<text x="2.000" y="3.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+0</text>
+<text x="2.000" y="5.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+1</text>
+<text x="2.000" y="25.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+in(0)</text>
+<line x1="18.150" y1="11.000" x2="20.000" y2="11.000" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="22.000" cy="27.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="22.000" cy="27.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="29.000,5.150 29.000,7.000 30.000,7.000 30.000,7.000 31.000,7.000 "/>
+<ellipse cx="29.000" cy="5.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="29.000" cy="5.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.000,15.000 16.000,15.000 16.000,3.000 16.000,3.000 "/>
+<text x="40.000" y="31.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+out(3)</text>
+<text x="41.000" y="12.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+out(1)</text>
+<line x1="22.000" y1="16.333" x2="22.000" y2="26.850" stroke="#000000" stroke-width="0.100" />
+<line x1="3.000" y1="31.000" x2="39.000" y2="31.000" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="20.000,13.000 18.000,13.000 18.000,5.000 18.000,5.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="31.000,9.000 27.000,9.000 27.000,3.150 27.000,3.150 "/>
+<ellipse cx="27.000" cy="3.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="27.000" cy="3.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="16.000" cy="3.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="16.000" cy="3.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="9.000,13.000 9.000,23.000 15.000,21.000 15.000,15.000 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="9.000,13.000 9.000,23.000 15.000,21.000 15.000,15.000 "/>
+<text x="12.000" y="17.390"  fill="#000000" text-anchor="middle" font-size="2.00" font-family="sans" font-style="normal" font-weight="400">
+4:1</text>
+<line x1="15.000" y1="18.000" x2="39.000" y2="18.000" stroke="#000000" stroke-width="0.100" />
+<text x="41.000" y="18.221"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+out(2)</text>
+<text x="2.000" y="29.221"  fill="#000000" text-anchor="end" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+in(2)</text>
+<line x1="13.000" y1="21.667" x2="13.000" y2="30.850" stroke="#000000" stroke-width="0.100" />
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.000,29.000 24.000,29.000 24.000,15.667 24.000,15.667 "/>
+<ellipse cx="18.000" cy="5.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="18.000" cy="5.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.000,19.000 7.000,19.000 7.000,5.000 7.000,5.000 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="9.000,21.000 5.000,21.000 5.000,3.000 5.000,3.000 "/>
+<line x1="9.000" y1="17.000" x2="7.150" y2="17.000" stroke="#000000" stroke-width="0.100" />
+<line x1="9.000" y1="15.000" x2="5.200" y2="15.000" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="7.000" cy="17.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="7.000" cy="17.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="5.000" cy="15.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="5.000" cy="15.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="7.000" cy="5.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="7.000" cy="5.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="5.000" cy="3.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="5.000" cy="3.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="11.000" cy="29.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="11.000" cy="29.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="13.000" cy="31.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="13.000" cy="31.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><polyline fill="none" stroke="#000000" stroke-width="0.100"  points="3.000,27.000 35.000,27.000 35.000,9.667 35.000,9.667 "/>
+<line x1="11.000" y1="22.333" x2="11.000" y2="28.850" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="18.000" cy="11.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="18.000" cy="11.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="16.000" cy="9.000" rx="0.150" ry="0.150" fill="#000000" stroke="none"  /><ellipse cx="16.000" cy="9.000" rx="0.150" ry="0.150" fill="none" stroke="#000000"  stroke-width="0.100" /></svg>
