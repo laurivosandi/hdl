@@ -180,9 +180,6 @@ source code of the the VHDL/Verilog component that is indended to be
 customized by the user, you can identify the lines by
 **Add user logic here**.
 
-Once you have finished with the hardware design
-click on the lefthand panel **Program and Debug** → **Generate Bitstream**
-this will generate the 2MB blob that represents your FPGA configuration.
 
 
 Switching to SDK
@@ -212,27 +209,6 @@ Creating device tree
 TODO
 
 
-
-Working around NumberFormatException
-------------------------------------
-
-If you encounter floating point formatting exception try disabling locales by
-appeding following to Vivado's **settings64.sh**:
-
-.. code:: bash
-
-    export LANG=C
-    
-Working around NullPointerException
------------------------------------
-
-If you bump into NullPointerException while attempting to run Tools → Create Package and IP
-try to:
-
-* Open from main menu **Tools** →  **Project settings**
-* Click on **IP**
-* Select **Packager** tab
-* Make sure **Vendor** field value if anything but **(none)**
 
 
 http://www.aldec.com/en/support/resources/documentation/articles/1585/

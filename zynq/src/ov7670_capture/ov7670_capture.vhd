@@ -4,25 +4,27 @@
 -- Description: Captures the pixels coming from the OV7670 camera and 
 --              Stores them in block RAM
 ----------------------------------------------------------------------------------
-library IEEE;
-use IEEE.STD_LOGIC_1164.ALL;
-use IEEE.NUMERIC_STD.ALL;
+library ieee;
+use ieee.std_logic_1164.ALL;
+use ieee.NUMERIC_STD.ALL;
 
 entity ov7670_capture is
-    Port ( pclk  : in   STD_LOGIC;
-           vsync : in   STD_LOGIC;
-           href  : in   STD_LOGIC;
-           d     : in   STD_LOGIC_VECTOR (7 downto 0);
-           addr  : out  STD_LOGIC_VECTOR (17 downto 0);
-           dout  : out  STD_LOGIC_VECTOR (11 downto 0);
-           we    : out  STD_LOGIC);
+    port (
+        pclk  : in   std_logic;
+        vsync : in   std_logic;
+        href  : in   std_logic;
+        d     : in   std_logic_vector ( 7 downto 0);
+        addr  : out  std_logic_vector (17 downto 0);
+        dout  : out  std_logic_vector (11 downto 0);
+        we    : out  std_logic
+    );
 end ov7670_capture;
 
-architecture Behavioral of ov7670_capture is
+architecture behavioral of ov7670_capture is
    signal d_latch      : std_logic_vector(15 downto 0) := (others => '0');
-   signal address      : STD_LOGIC_VECTOR(18 downto 0) := (others => '0');
-   signal address_next : STD_LOGIC_VECTOR(18 downto 0) := (others => '0');
-   signal wr_hold      : std_logic_vector(1 downto 0)  := (others => '0');
+   signal address      : std_logic_vector(18 downto 0) := (others => '0');
+   signal address_next : std_logic_vector(18 downto 0) := (others => '0');
+   signal wr_hold      : std_logic_vector( 1 downto 0)  := (others => '0');
    
 begin
    addr <= address(18 downto 1);
@@ -42,7 +44,7 @@ begin
             address_next <= (others => '0');
             wr_hold <= (others => '0');
          else
--- This should be a different order, but seems to be GRB!
+            -- This should be a different order, but seems to be GRB!
 --            dout    <= d_latch(11 downto 10) & d_latch(11 downto 10) & d_latch(15 downto 12) & d_latch(9 downto 8) & d_latch(9 downto 8); 
             dout    <= d_latch(15 downto 12) & d_latch(10 downto 7) & d_latch(4 downto 1); 
             address <= address_next;
@@ -53,8 +55,7 @@ begin
             if wr_hold(1) = '1' then
                address_next <= std_logic_vector(unsigned(address_next)+1);
             end if;
-
          end if;
       end if;
    end process;
-end Behavioral;
+end behavioral;

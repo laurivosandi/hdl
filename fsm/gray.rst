@@ -3,7 +3,7 @@
 Gray code
 =========
 
-Truth table for 3-bit Gray encoder/decoder.
+Truth table for 3-bit Gray encoder.
 
 +--------+--------+--------+--------+--------+--------+--------+--------+
 | in     | in(2)  | in(1)  | in(0)  | out    | out(2) | out(1) | out(0) |
@@ -25,11 +25,9 @@ Truth table for 3-bit Gray encoder/decoder.
 | **7**  | 1      | 1      | 1      | **4**  | 1      | 0      | 0      |
 +--------+--------+--------+--------+--------+--------+--------+--------+
 
-
-
 .. figure:: dia/gray-triplet-decoder-mux.svg
 
-    3-bit gray encoder/decoder implemented with two 4:1 muxes
+    3-bit gray encoder implemented with two 4:1 muxes
     
     
 Truth table for 4-bit Gray encoder
@@ -70,8 +68,7 @@ Truth table for 4-bit Gray encoder
 | **f**  | 1      | 1      | 1      | 1      | **8**  | 1      | 0      | 0      | 0      |
 +--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
 
-
 .. figure:: dia/gray-nibble-decoder-mux.svg
 
-    4-bit gray encoder/decoder implemented with three 4:1 muxes
+    4-bit gray encoder implemented with three 4:1 muxes
 

@@ -1,7 +1,7 @@
 .. tags: VHDL, KTH, Manchester
 
-State recoder
-=============
+Sequence recoder
+================
 
 Introduction
 ------------
@@ -10,11 +10,10 @@ This is another example of FSM-s.
 
 .. figure:: dia/sequence-recoder-specification.svg
 
-    State recoder specification, input sequence corresponding to output sequence.
+    Sequence recoder specification, input sequence corresponding to output sequence.
     
 Note that this is NFA (nondeterministic finite automaton) due to the fact
 that there is no way to know where to go with only one lookahead symbol.
-
 
 Mealy version
 -------------
@@ -60,11 +59,6 @@ Corresponding flow table:
 +-----------+------+------+------+------+
 | S10       | S0   | S0   | –    | –    |
 +-----------+------+------+------+------+
-
-
-
-
-
 
 Next step is to substitute don't care outputs for example with zeros.
 All output combinations that are the same belong to the same class.
@@ -132,22 +126,5 @@ Hamming distances using one-hot encoding yields total distance of 14:
     Hamming distances of transitions using one-hot encoding.
 
 
-Encoding
---------
-
-In case of encoding the clock runs at twice higher frequency than
-data lines. Output is esentially XOR operation on clock and data.
-
-+------+-------+--------+
-| data | clock | output |
-+------+-------+--------+
-| 0    | 0     | 0      |
-+------+-------+--------+
-| 0    | 1     | 1      |
-+------+-------+--------+
-| 1    | 0     | 1      |
-+------+-------+--------+
-| 1    | 1     | 0      |
-+------+-------+--------+
 
 

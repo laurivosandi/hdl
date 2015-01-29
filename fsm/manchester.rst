@@ -47,7 +47,7 @@ Corresponding flow table:
 +-----------+-------------+-------------+
 | State tag | Next state  | Output      |
 |           +------+------+------+------+
-|           | I=0  | I=1  | I=0  | I=1  |
+|           | i=0  | i=1  | i=0  | i=1  |
 +-----------+------+------+------+------+
 | S0        | S1   | S3   | 0    | 1    |
 +-----------+------+------+------+------+
@@ -68,7 +68,7 @@ Thus S2 and S4 can be merged.
 +-----------+-------------+-------------+
 | State tag | Next state  | Output      |
 |           +------+------+------+------+
-|           | I=0  | I=1  | I=0  | I=1  |
+|           | i=0  | i=1  | i=0  | i=1  |
 +-----------+------+------+------+------+
 | E0        | E1   | E3   | 0    | 1    |
 +-----------+------+------+------+------+
@@ -119,23 +119,70 @@ Hamming distances using one-hot encoding yields total distance of 14:
 
     Hamming distances of transitions using one-hot encoding.
 
+Using gray encoding for the states yields in following flow table:
 
-Encoding
---------
++-----------+-------------------+-------------------+
+| State     | Next state (tn,un)| Output (q)        |
+| (t,u)     +---------+---------+---------+---------+
+|           | i=0     | i=1     | i=0     | i=1     |
++-----------+---------+---------+---------+---------+
+| 00        | 01      | 10      | 0       | 1       |
++-----------+---------+---------+---------+---------+
+| 01        | 00      | 11      | 1       | 0       |
++-----------+---------+---------+---------+---------+
+| 11        | 00      | 00      | 0       | 0       |
++-----------+---------+---------+---------+---------+
+| 10        | 00      | 00      | 1       | 0       |
++-----------+---------+---------+---------+---------+
 
-In case of encoding the clock runs at twice higher frequency than
-data lines. Output is esentially XOR operation on clock and data.
+Karnaugh map here is omitted, instead it's pretty obvious the
+next state can be expressed as:
 
-+------+-------+--------+
-| data | clock | output |
-+------+-------+--------+
-| 0    | 0     | 0      |
-+------+-------+--------+
-| 0    | 1     | 1      |
-+------+-------+--------+
-| 1    | 0     | 1      |
-+------+-------+--------+
-| 1    | 1     | 0      |
-+------+-------+--------+
 
+.. math:: t_{next} = \neg t \land i
+.. math:: u_{next} = \neg u \land \left( \neg t  \land \neg i \lor i \land u \right)
+
+And the output corresponding to current input and state:
+
+.. math:: q = \neg i \land t \oplus u \lor i \land \neg \land t \neg u
+
+Corresponding VHDL code:
+
+.. code:: vhdl
+
+    library ieee;
+    use ieee.std_logic_1164.all;
+    
+    entity manchester is
+        port (
+            clk    : in std_logic;
+            resetn : in std_logic;
+            i      : in std_logic;
+            q      : out std_logic
+        );
+    end manchester;
+    
+    architecture behaviour of manchester is
+        signal t, u, t_next, u_next := '0';
+    begin
+        -- Mealy output depends on present state (u, t) and input (i)
+        u1: process(t, u, i)
+        begin
+            q      <= not i and t xor u or i and not t and not u
+            t_next <= not t and i;
+            u_next <= not u and (not t and not i or i and u);
+        end process;
+        
+        -- State transition occurs during rising edge of the clock
+        u2: process(clk, resetn)
+        begin
+            if resetn = '0' then
+                u <= '0';
+                t <= '0';
+            elsif clk'event and clk = '1' then
+                u <= u_next;
+                t <= t_next;
+            end IF;
+        end process;
+    end behaviour;
 

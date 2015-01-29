@@ -5,7 +5,7 @@ WIDTH = 640
 HEIGHT = 480
 PIXEL_SIZE = 4
 
-fh = os.open("/dev/mem", os.O_SYNC | os.O_RDONLY) # Read-only, disable cache
+fh = os.open("/dev/mem", os.O_SYNC | os.O_RDONLY) # Disable cache, read-only
 mm = mmap.mmap(fh, WIDTH*HEIGHT*PIXEL_SIZE, mmap.MAP_SHARED, mmap.PROT_READ, offset=FRAMEBUFFER_OFFSET)
 class MyHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     def do_GET(s):

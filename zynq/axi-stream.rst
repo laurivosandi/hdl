@@ -6,16 +6,22 @@ Arbitrary data streams
 Introduction
 ------------
 
-AXI4-Stream is part of AMBA interface specification.
-AXI4-Stream Video is a subset of AXI4-Stream designed for transporting
-video frames.
+AMBA interface specification is published by ARM Ltd [#amba-specifications]_.
+AXI4-Stream one of many AMBA protocols designed to transport data streams
+of arbitrary width in hardware.
+Most usually 32-bit bus width is used, which means that
+4 bytes get transferred during one cycle.
+At 100MHz of programmable logic frequency on FPGA-s this yields throughput of
+magnitude of hundreds of megabytes per second
+depending on memory management unit capabilities and configuration.
+
+.. [#amba-specifications] http://www.arm.com/products/system-ip/amba-specifications.php
 
 
 AXI4-Stream
 -----------
 
-It's a protocol designed to transport arbitrary unidirectional data streams.
-
+AXI4-Stream is a protocol designed to transport arbitrary unidirectional data streams.
 
 .. figure:: dia/axi-stream.svg
 
@@ -41,6 +47,8 @@ and stream destination identifier [#fpganotes]_
 AXI4-Stream Video
 -----------------
 
+AXI4-Stream Video is a subset of AXI4-Stream designed for transporting
+video frames.
 AXI4-Stream Video is compatible with AXI4-Stream components, it simply
 has conventions for the use of ports already defined by AXI4-Stream:
 
@@ -52,7 +60,8 @@ has conventions for the use of ports already defined by AXI4-Stream:
 These two flags are necessary to identify pixel locations on the AXI4
 stream interface because there are no sync or blank signals. [#axi-stream-to-video-out]_.
 Video DMA component makes use of the TUSER signal to synchronize frame buffering.
-
+Note that TUSER flag which is part of AXI4-Stream specification replaces
+FSYNC signal that has been used in the past by legacy applications.
 
 
 .. [#axi-stream-to-video-out] http://www.xilinx.com/support/documentation/ip_documentation/v_axi4s_vid_out/v1_0/pg044_v_axis_vid_out.pdf

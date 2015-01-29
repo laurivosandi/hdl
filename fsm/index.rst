@@ -54,6 +54,9 @@ known as *flow table*:
 |1    |S0           |S0        |1     |
 +-----+-------------+----------+------+
 
+There are two critical paths distinguished in Moore machine:
+from input to flip-flop and from flip-flop to output.
+
 Mealy machine
 -------------
 
@@ -72,6 +75,8 @@ both - current state and current inputs.
 
     Mealy machine example with two states and four transitions
     
+There are three critical paths distinguished in Mealy machine:
+from input to flip-flop; flip-flop to output and from input to output.
 Mealy machine with latched outputs is essentially Moore machine.
 
 State minimization

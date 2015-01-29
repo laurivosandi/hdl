@@ -62,7 +62,6 @@ don't care values are substituted with 0-s.
     Implementation of one of the outputs
 
     
-    
 Decoder
 -------
 

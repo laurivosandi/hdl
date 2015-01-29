@@ -1,8 +1,8 @@
 .. date: 2014-10-05
 .. tags: VHDL, ZYBO, KTH, BCD
 
-ZYBO counter
-============
+Decimal counter on ZYBO
+=======================
 
 Introduction
 ------------
@@ -95,7 +95,11 @@ Edit **Constraints** → **constrs_1** → **base.xdc** to reflect your setup:
 Final steps
 -----------
 
-Click on **Generate bitstream** button and transfer resulting bitstream file to the boot partition and restart ZYBO.
+
+Press **Generate Bitstream** in the left-hand panel under **Program and Debug**,
+the file will be written to
+**zybo_base_system/source/vivado/hw/zybo_bsd/zybo_bsd.runs/impl_1/system_wrapper.bit**.
+Transfer the file to the first FAT32 partition of the microSD card and reset the device.
 
 .. figure:: img/zybo-counter.jpg
 

@@ -266,15 +266,21 @@ are not propagated. Using inertial delay gates can be described precisely:
 
 .. code:: vhdl
 
+    -- All three equivalent
+    s0 <= s after 10 ns;
     s1 <= inertial s after 10 ns;
-    s2 <= reject 5 ns inertial s after 10 ns;
+    s2 <= reject 10 ns inertial s after 10 ns;
 
 Transport delay represents the lag of wiring within device.
+It passes all input transitions with delay.
 Keyword *transport*  can be used in such cases:
 
 .. code:: vhdl
 
     s3 <= transport s after 10 ns;
+
+Transport and intertial delays can't be synthesized in hardware,
+it's the other way around - delays can be used to model actual hardware.
 
 .. [#delta] Designer's Guide to VHDL, page 155
 .. [#inertial] Designer's Guide to VHDL, page 158

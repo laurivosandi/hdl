@@ -70,60 +70,42 @@ begin
             when x"11" => sreg <= x"581e"; --x"589e"; -- MTXS  - Matrix sign and auto contrast
             when x"12" => sreg <= x"3dc0"; -- COM13 - Turn on GAMMA and UV Auto adjust
             when x"13" => sreg <= x"1100"; -- CLKRC  Prescaler - Fin/(1+1)
-            
             when x"14" => sreg <= x"1711"; -- HSTART HREF start (high 8 bits)
             when x"15" => sreg <= x"1861"; -- HSTOP  HREF stop (high 8 bits)
             when x"16" => sreg <= x"32A4"; -- HREF   Edge offset and low 3 bits of HSTART and HSTOP
-            
             when x"17" => sreg <= x"1903"; -- VSTART VSYNC start (high 8 bits)
             when x"18" => sreg <= x"1A7b"; -- VSTOP  VSYNC stop (high 8 bits) 
             when x"19" => sreg <= x"030a"; -- VREF   VSYNC low two bits
-            
             when x"1A" => sreg <= x"0e61"; -- COM5(0x0E) 0x61
             when x"1B" => sreg <= x"0f4b"; -- COM6(0x0F) 0x4B 
-            
             when x"1C" => sreg <= x"1602"; --
             when x"1D" => sreg <= x"1e37"; -- MVFP (0x1E) 0x07  -- FLIP AND MIRROR IMAGE 0x3x
-
             when x"1E" => sreg <= x"2102";
             when x"1F" => sreg <= x"2291";
-            
             when x"20" => sreg <= x"2907";
             when x"21" => sreg <= x"330b";
-                                  
             when x"22" => sreg <= x"350b";
             when x"23" => sreg <= x"371d";
-                                  
             when x"24" => sreg <= x"3871";
             when x"25" => sreg <= x"392a";
-                                   
             when x"26" => sreg <= x"3c78"; -- COM12 (0x3C) 0x78
             when x"27" => sreg <= x"4d40"; 
-                                  
             when x"28" => sreg <= x"4e20";
             when x"29" => sreg <= x"6900"; -- GFIX (0x69) 0x00
-                                   
             when x"2A" => sreg <= x"6b4a";
             when x"2B" => sreg <= x"7410";
-                                  
             when x"2C" => sreg <= x"8d4f";
             when x"2D" => sreg <= x"8e00";
-                                   
             when x"2E" => sreg <= x"8f00";
             when x"2F" => sreg <= x"9000";
-                                  
             when x"30" => sreg <= x"9100";
             when x"31" => sreg <= x"9600";
-                                  
             when x"32" => sreg <= x"9a00";
             when x"33" => sreg <= x"b084";
-                                  
             when x"34" => sreg <= x"b10c";
             when x"35" => sreg <= x"b20e";
-                                  
             when x"36" => sreg <= x"b382";
             when x"37" => sreg <= x"b80a";
-            
             when others => sreg <= x"ffff";
          end case;
       end if;

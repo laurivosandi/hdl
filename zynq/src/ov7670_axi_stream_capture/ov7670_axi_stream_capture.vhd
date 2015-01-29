@@ -34,7 +34,7 @@ architecture behavioral of ov7670_axi_stream_capture is
     signal sof              : std_logic := '0';
     signal eol              : std_logic := '0';
 begin
-     -- Expand 15-bit RGB (5:6:5) to 32-bit RGBA
+     -- Expand 16-bit RGB (5:6:5) to 32-bit RGBA (8:8:8:8)
      m_axis_tdata  <= "11111111"  & d_latch(4 downto 0) & d_latch(0) & d_latch(0) & d_latch(0) & d_latch(10 downto 5) & d_latch(5) & d_latch(5) & d_latch(15 downto 11) & d_latch(11) & d_latch(11) & d_latch(11);
      m_axis_tvalid <= we_reg;
      m_axis_tlast <= eol;
