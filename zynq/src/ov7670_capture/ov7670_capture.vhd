@@ -45,7 +45,6 @@ begin
             wr_hold <= (others => '0');
          else
             -- This should be a different order, but seems to be GRB!
---            dout    <= d_latch(11 downto 10) & d_latch(11 downto 10) & d_latch(15 downto 12) & d_latch(9 downto 8) & d_latch(9 downto 8); 
             dout    <= d_latch(15 downto 12) & d_latch(10 downto 7) & d_latch(4 downto 1); 
             address <= address_next;
             we      <= wr_hold(1);

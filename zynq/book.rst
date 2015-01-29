@@ -24,7 +24,7 @@
 Conclusion
 ----------
 
-If you've followed the guide you should know by know more or less 
+If you've followed the guide you should know by now more or less 
 how the video streams are handled on Zynq-7000 based boards.
 If that's not the case then I have failed.
 The code snippets can be found at GitHub repository
